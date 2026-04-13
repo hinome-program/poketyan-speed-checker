@@ -1,13 +1,13 @@
 :root {
-    --sky-blue: #87ceeb;
-    --sky-light: #e0f7ff;
-    --navy-dark: #0a192f;
+    --sky-blue: #a3e635; /* Bright lime/yellow-green */
+    --sky-light: #f7fee7; /* Very light lime */
+    --navy-dark: #1a2e05;
     --navy-light: #ffffff;
-    --cyan: #0077cc;
-    --slate: #475569;
-    --light-slate: #1e293b;
+    --cyan: #4d7c0f; /* Darker green for contrast */
+    --slate: #4d7c0f;
+    --light-slate: #1a2e05;
     --white: #ffffff;
-    --grad: linear-gradient(135deg, #0ea5e9 0%, #38bdf8 100%);
+    --grad: linear-gradient(135deg, #a3e635 0%, #65a30d 100%);
 
     /* Type Colors */
     --type-normal: #A8A878;
@@ -71,7 +71,7 @@ body {
     font-size: 1.2rem;
     font-weight: 900;
     letter-spacing: 1px;
-    color: #1e3a8a;
+    color: #3f6212;
     white-space: nowrap;
 }
 
@@ -236,7 +236,7 @@ body {
     text-align: right;
     font-weight: 900;
     font-size: 1.25rem;
-    color: #1e3a8a;
+    color: #3f6212;
 }
 
 .is-fastest .poke-real-box { color: var(--cyan); }
@@ -277,7 +277,7 @@ body {
 }
 
 .overlay-header { text-align: center; margin-bottom: 1.5rem; }
-.overlay-header h2 { color: #1e3a8a; font-size: 1.4rem; }
+.overlay-header h2 { color: #3f6212; font-size: 1.4rem; }
 
 .overlay-stats { display: grid; gap: 8px; }
 .stat-item {
@@ -287,7 +287,7 @@ body {
     border-radius: 12px;
 }
 .stat-lbl { font-size: 0.85rem; font-weight: 700; color: var(--slate); }
-.stat-num { font-size: 1.1rem; font-weight: 900; color: #1e293b; }
+.stat-num { font-size: 1.1rem; font-weight: 900; color: #3f6212; }
 .stat-num.highlight { color: var(--cyan); }
 
 /* Mobile */
