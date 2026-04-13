@@ -76,12 +76,6 @@ function buildRow(p, idx) {
     const t1 = p.types[0];
     const t2 = p.types[1] || t1;
     
-    // Type Icon
-    const icn = document.createElement('div');
-    icn.className = 'type-icn-box';
-    icn.style.borderColor = TYPE_COLORS[t1] || '#ccc';
-    icn.style.backgroundColor = TYPE_COLORS[t2] || '#ccc';
-    
     // Name with Sprite
     const name = document.createElement('div');
     name.className = 'poke-name-box';
@@ -111,7 +105,7 @@ function buildRow(p, idx) {
     real.className = 'poke-real-box';
     real.textContent = p.realSpe;
     
-    el.append(icn, name, base, real);
+    el.append(name, base, real);
     el.onclick = () => openPop(p);
     
     return el;
