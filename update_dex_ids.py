@@ -56,17 +56,32 @@ for species in species_data["data"]["pokemon_v2_pokemonspecies"]:
         jp_to_dex_id[names[0]["name"]] = dex_id
 
 # Map Japanese name to Mega ID (10000+)
-# We might have multiple megas for one species (X, Y)
-# We store them as a dict: jp_name -> list of (formname_part, id)
 jp_to_megas = {}
 for poke in mega_data["data"]["pokemon_v2_pokemon"]:
     m_id = poke["id"]
-    m_name = poke["name"] # e.g. "charizard-mega-y"
+    m_name = poke["name"]
     base_jp = poke["pokemon_v2_pokemonspecy"]["pokemon_v2_pokemonspeciesnames"][0]["name"]
     
     if base_jp not in jp_to_megas:
         jp_to_megas[base_jp] = []
     jp_to_megas[base_jp].append({"id": m_id, "name": m_name})
+
+# Manual Mapping for specific requested forms
+manual_form_map = {
+    "ケンタロス(パルデア単)": 10250,
+    "ケンタロス(パルデア炎)": 10251,
+    "ケンタロス(パルデア水)": 10252,
+    "イルカマン(マイティ)": 10256,
+    "ニャオニクス(メス)": 10025,
+    "ロトム(ヒート)": 10008,
+    "ロトム(ウォッシュ)": 10009,
+    "ロトム(フロスト)": 10010,
+    "ロトム(スピン)": 10011,
+    "ロトム(カット)": 10012,
+    "ルガルガン(まひる)": 745,
+    "ルガルガン(まよなか)": 10126,
+    "ルガルガン(たそがれ)": 10152
+}
 
 print(f"Loaded {len(jp_to_dex_id)} species and {len(mega_data['data']['pokemon_v2_pokemon'])} mega varieties.")
 
@@ -81,36 +96,46 @@ for p in data:
     base_name = p.get("baseName", "")
     is_mega = p.get("isMega", False)
     
+    # Identify search name for species mapping
     # 1. Strip "(XXXX)" formats
     clean_name = re.sub(r'\(.*?\)', '', base_name).strip()
     
-    # Identify search name for species mapping
     search_name = clean_name
-    if search_name.startswith("メガ"):
+    if search_name.startswith("メガ") and is_mega:
         search_name = search_name[2:]
     
     # Assign standard dexId
     dex_id = jp_to_dex_id.get(search_name, jp_to_dex_id.get(clean_name, 0))
     p["dexId"] = dex_id
     
-    # Assign megaId if it's a mega and we found a match
-    p["megaId"] = 0
-    if is_mega and search_name in jp_to_megas:
+    # varietyId Assignment
+    p["varietyId"] = 0
+    
+    # 1. Check manual form map first
+    if base_name in manual_form_map:
+        p["varietyId"] = manual_form_map[base_name]
+    
+    # 2. Check mega mapping if it's a mega and not already mapped
+    if p["varietyId"] == 0 and is_mega and search_name in jp_to_megas:
         varieties = jp_to_megas[search_name]
         if len(varieties) == 1:
-            p["megaId"] = varieties[0]["id"]
+            p["varietyId"] = varieties[0]["id"]
         else:
             # Handle X/Y cases
             if "X" in clean_name or "-x" in clean_name.lower():
                 match = next((v for v in varieties if "-x" in v["name"]), None)
-                if match: p["megaId"] = match["id"]
+                if match: p["varietyId"] = match["id"]
             elif "Y" in clean_name or "-y" in clean_name.lower():
                 match = next((v for v in varieties if "-y" in v["name"]), None)
-                if match: p["megaId"] = match["id"]
+                if match: p["varietyId"] = match["id"]
             else:
-                p["megaId"] = varieties[0]["id"] # Default to first
+                p["varietyId"] = varieties[0]["id"]
 
-    if p["dexId"] or p["megaId"]:
+    # Cleanup old field if exists
+    if "megaId" in p:
+        del p["megaId"]
+
+    if p["dexId"] or p.get("varietyId"):
         updated_count += 1
 
 with open('pokemon_data.json', 'w', encoding='utf-8') as f:

@@ -163,7 +163,7 @@ body {
 .poke-row {
     display: flex;
     align-items: center;
-    background: rgba(255, 255, 255, 0.8);
+    background: var(--white);
     margin-bottom: 8px;
     padding: 0.5rem 1rem;
     border-radius: 12px;
@@ -179,7 +179,7 @@ body {
 
 .poke-row.is-fastest { border-left: 3px solid var(--cyan); }
 .poke-row.is-semi { border-left: 3px solid var(--slate); }
-.poke-row.is-noev { border-left: 3px solid #f59e0b; opacity: 0.75; }
+.poke-row.is-noev { border-left: 3px solid #f59e0b; }
 
 
 
@@ -222,6 +222,7 @@ body {
 }
 
 .is-fastest .mode-tag { color: var(--cyan); font-weight: 700; }
+.is-semi .mode-tag { color: #0ea5e9; font-weight: 700; }
 .is-noev .mode-tag { color: #f59e0b; font-weight: 700; }
 
 .poke-base-box {
@@ -240,6 +241,16 @@ body {
 }
 
 .is-fastest .poke-real-box { color: var(--cyan); }
+
+.is-semi .poke-base-box,
+.is-semi .poke-real-box {
+    color: #0ea5e9; /* 水色 */
+}
+
+.is-noev .poke-base-box,
+.is-noev .poke-real-box {
+    color: #f59e0b;      /* オレンジ色 */
+}
 
 /* Overlay */
 .overlay {

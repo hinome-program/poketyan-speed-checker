@@ -19,7 +19,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガアブソルZ (最速)",
@@ -41,7 +41,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガルカリオZ (最速)",
@@ -63,7 +63,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガフーディン (最速)",
@@ -84,7 +84,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 65,
-    "megaId": 10037
+    "varietyId": 10037
   },
   {
     "name": "メガプテラ (最速)",
@@ -106,7 +106,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 142,
-    "megaId": 10042
+    "varietyId": 10042
   },
   {
     "name": "メガゼラオラ (最速)",
@@ -127,7 +127,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 807,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドラパルト (最速)",
@@ -149,7 +149,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 887,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゲッコウガ (最速)",
@@ -171,7 +171,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 658,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガライボルト (最速)",
@@ -192,7 +192,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 310,
-    "megaId": 10055
+    "varietyId": 10055
   },
   {
     "name": "メガミミロップ (最速)",
@@ -213,7 +213,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 428,
-    "megaId": 10088
+    "varietyId": 10088
   },
   {
     "name": "メガマフォクシー (最速)",
@@ -235,7 +235,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 655,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガガブリアスZ (準速)",
@@ -257,7 +257,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガアブソルZ (準速)",
@@ -279,7 +279,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガルカリオZ (準速)",
@@ -301,7 +301,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガフーディン (準速)",
@@ -322,7 +322,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 65,
-    "megaId": 10037
+    "varietyId": 10037
   },
   {
     "name": "メガプテラ (準速)",
@@ -344,7 +344,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 142,
-    "megaId": 10042
+    "varietyId": 10042
   },
   {
     "name": "サンダース (最速)",
@@ -365,7 +365,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 135,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "プテラ (最速)",
@@ -387,7 +387,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 142,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゲンガー (最速)",
@@ -409,7 +409,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 94,
-    "megaId": 10038
+    "varietyId": 10038
   },
   {
     "name": "メガライチュウY (最速)",
@@ -431,7 +431,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゼラオラ (準速)",
@@ -452,7 +452,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 807,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ファイアロー (最速)",
@@ -474,7 +474,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 663,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカエンジシ (最速)",
@@ -496,7 +496,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 668,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マニューラ (最速)",
@@ -518,7 +518,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 461,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドラパルト (準速)",
@@ -540,7 +540,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 887,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゲッコウガ (準速)",
@@ -562,7 +562,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 658,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガダークライ (最速)",
@@ -583,7 +583,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 491,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガニャオニクス (最速)",
@@ -604,7 +604,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 678,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オンバーン (最速)",
@@ -626,7 +626,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 715,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マスカーニャ (最速)",
@@ -648,7 +648,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 908,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゲッコウガ (最速)",
@@ -670,7 +670,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 658,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガムクホーク (最速)",
@@ -692,7 +692,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 398,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フーディン (最速)",
@@ -713,7 +713,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 65,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オオニューラ (最速)",
@@ -735,7 +735,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 903,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガスターミー (最速)",
@@ -757,7 +757,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 121,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガユキメノコ (最速)",
@@ -779,7 +779,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 478,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルチャブル (最速)",
@@ -801,7 +801,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 701,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガライボルト (準速)",
@@ -822,7 +822,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 310,
-    "megaId": 10055
+    "varietyId": 10055
   },
   {
     "name": "メガミミロップ (準速)",
@@ -843,7 +843,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 428,
-    "megaId": 10088
+    "varietyId": 10088
   },
   {
     "name": "メガルチャブル (最速)",
@@ -865,7 +865,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 701,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガマフォクシー (準速)",
@@ -887,7 +887,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 655,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エンニュート (最速)",
@@ -909,7 +909,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 758,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エルフーン (最速)",
@@ -931,7 +931,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 547,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "スターミー (最速)",
@@ -953,7 +953,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 121,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガアブソル (最速)",
@@ -974,7 +974,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 359,
-    "megaId": 10057
+    "varietyId": 10057
   },
   {
     "name": "サンダース (準速)",
@@ -995,7 +995,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 135,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "プテラ (準速)",
@@ -1017,7 +1017,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 142,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゲンガー (準速)",
@@ -1039,7 +1039,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 94,
-    "megaId": 10038
+    "varietyId": 10038
   },
   {
     "name": "メガライチュウY (準速)",
@@ -1061,7 +1061,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジャローダ (最速)",
@@ -1082,7 +1082,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 497,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヒードラン (最速)",
@@ -1104,7 +1104,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 485,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルガルガン(まひる) (最速)",
@@ -1125,7 +1125,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 745,
-    "megaId": 0
+    "varietyId": 745
   },
   {
     "name": "メガルカリオ (最速)",
@@ -1147,7 +1147,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 448,
-    "megaId": 10059
+    "varietyId": 10059
   },
   {
     "name": "ライチュウ (最速)",
@@ -1168,7 +1168,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 26,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ライチュウ(アローラ) (最速)",
@@ -1190,7 +1190,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 26,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゲンガー (最速)",
@@ -1212,7 +1212,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 94,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ケンタロス (最速)",
@@ -1233,7 +1233,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エーフィ (最速)",
@@ -1254,7 +1254,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 196,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ユキメノコ (最速)",
@@ -1276,7 +1276,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 478,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゾロアーク(ヒスイ) (最速)",
@@ -1298,7 +1298,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 571,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ファイアロー (準速)",
@@ -1320,7 +1320,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 663,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルガルガン(たそがれ) (最速)",
@@ -1341,7 +1341,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 745,
-    "megaId": 0
+    "varietyId": 10152
   },
   {
     "name": "メガエルレイド (最速)",
@@ -1363,7 +1363,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 475,
-    "megaId": 10068
+    "varietyId": 10068
   },
   {
     "name": "メガカエンジシ (準速)",
@@ -1385,7 +1385,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 668,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガライチュウX (最速)",
@@ -1407,7 +1407,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガエアームド (最速)",
@@ -1429,7 +1429,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 227,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "キュウコン(アローラ) (最速)",
@@ -1451,7 +1451,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 38,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マニューラ (準速)",
@@ -1473,7 +1473,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 461,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガダークライ (準速)",
@@ -1494,7 +1494,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 491,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゴウカザル (最速)",
@@ -1516,7 +1516,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 392,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガニャオニクス (準速)",
@@ -1537,7 +1537,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 678,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オンバーン (準速)",
@@ -1559,7 +1559,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 715,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マスカーニャ (準速)",
@@ -1581,7 +1581,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 908,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゲッコウガ (準速)",
@@ -1603,7 +1603,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 658,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "レパルダス (最速)",
@@ -1624,7 +1624,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 510,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カエンジシ (最速)",
@@ -1646,7 +1646,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 668,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガムクホーク (準速)",
@@ -1668,7 +1668,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 398,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フーディン (準速)",
@@ -1689,7 +1689,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 65,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ライボルト (最速)",
@@ -1710,7 +1710,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 310,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミミロップ (最速)",
@@ -1731,7 +1731,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 428,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゾロアーク (最速)",
@@ -1752,7 +1752,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 571,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オオニューラ (準速)",
@@ -1774,7 +1774,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 903,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカイロス (最速)",
@@ -1795,7 +1795,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 127,
-    "megaId": 10040
+    "varietyId": 10040
   },
   {
     "name": "メガサメハダー (最速)",
@@ -1817,7 +1817,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 319,
-    "megaId": 10070
+    "varietyId": 10070
   },
   {
     "name": "メガスターミー (準速)",
@@ -1839,7 +1839,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 121,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガユキメノコ (準速)",
@@ -1861,7 +1861,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 478,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マフォクシー (最速)",
@@ -1883,7 +1883,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 655,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニャオニクス(オス) (最速)",
@@ -1904,7 +1904,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 678,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニャオニクス(メス) (最速)",
@@ -1925,7 +1925,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 678,
-    "megaId": 0
+    "varietyId": 10025
   },
   {
     "name": "メガガブリアスZ (無振り)",
@@ -1947,7 +1947,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガアブソルZ (無振り)",
@@ -1969,7 +1969,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガルカリオZ (無振り)",
@@ -1991,7 +1991,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エモンガ (最速)",
@@ -2013,7 +2013,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 587,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルチャブル (準速)",
@@ -2035,7 +2035,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 701,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガフーディン (無振り)",
@@ -2056,7 +2056,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 65,
-    "megaId": 10037
+    "varietyId": 10037
   },
   {
     "name": "メガプテラ (無振り)",
@@ -2078,7 +2078,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 142,
-    "megaId": 10042
+    "varietyId": 10042
   },
   {
     "name": "メガドリュウズ (最速)",
@@ -2100,7 +2100,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 530,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガルチャブル (準速)",
@@ -2122,7 +2122,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 701,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガブリアス (最速)",
@@ -2144,7 +2144,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 445,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "トリミアン (最速)",
@@ -2165,7 +2165,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 676,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エンニュート (準速)",
@@ -2187,7 +2187,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 758,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガフラエッテ (最速)",
@@ -2208,7 +2208,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 670,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ピジョット (最速)",
@@ -2230,7 +2230,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 18,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エルフーン (準速)",
@@ -2252,7 +2252,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 547,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デデンネ (最速)",
@@ -2274,7 +2274,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 702,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガピジョット (最速)",
@@ -2296,7 +2296,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 18,
-    "megaId": 10073
+    "varietyId": 10073
   },
   {
     "name": "メガキラフロル (最速)",
@@ -2318,7 +2318,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 970,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゼラオラ (無振り)",
@@ -2339,7 +2339,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 807,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "リザードン (最速)",
@@ -2361,7 +2361,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 6,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "キュウコン (最速)",
@@ -2382,7 +2382,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 38,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "スターミー (準速)",
@@ -2404,7 +2404,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 121,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ケンタロス(パルデア単) (最速)",
@@ -2425,7 +2425,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 10250
   },
   {
     "name": "ケンタロス(パルデア炎) (最速)",
@@ -2447,7 +2447,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 10251
   },
   {
     "name": "ケンタロス(パルデア水) (最速)",
@@ -2469,7 +2469,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 10252
   },
   {
     "name": "バクフーン (最速)",
@@ -2490,7 +2490,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 157,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウルガモス (最速)",
@@ -2512,7 +2512,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 637,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イルカマン(ナイーブ) (最速)",
@@ -2533,7 +2533,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 964,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イルカマン(マイティ) (最速)",
@@ -2554,7 +2554,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 964,
-    "megaId": 0
+    "varietyId": 10256
   },
   {
     "name": "メガリザードン (最速)",
@@ -2576,7 +2576,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 6,
-    "megaId": 10034
+    "varietyId": 10034
   },
   {
     "name": "メガガルーラ (最速)",
@@ -2597,7 +2597,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 115,
-    "megaId": 10039
+    "varietyId": 10039
   },
   {
     "name": "メガサーナイト (最速)",
@@ -2619,7 +2619,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 282,
-    "megaId": 10051
+    "varietyId": 10051
   },
   {
     "name": "メガチャーレム (最速)",
@@ -2641,7 +2641,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 308,
-    "megaId": 10054
+    "varietyId": 10054
   },
   {
     "name": "メガアブソル (準速)",
@@ -2662,7 +2662,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 359,
-    "megaId": 10057
+    "varietyId": 10057
   },
   {
     "name": "メガオニゴーリ (最速)",
@@ -2683,7 +2683,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 362,
-    "megaId": 10074
+    "varietyId": 10074
   },
   {
     "name": "メガカイリュー (最速)",
@@ -2705,7 +2705,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 149,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガタイレーツ (最速)",
@@ -2727,7 +2727,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 870,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガジガルデ (最速)",
@@ -2749,7 +2749,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 718,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(小さい) (最速)",
@@ -2771,7 +2771,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジャローダ (準速)",
@@ -2792,7 +2792,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 497,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サザンドラ (最速)",
@@ -2814,7 +2814,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 635,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヒードラン (準速)",
@@ -2836,7 +2836,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 485,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルガルガン(まひる) (準速)",
@@ -2857,7 +2857,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 745,
-    "megaId": 0
+    "varietyId": 745
   },
   {
     "name": "メガルカリオ (準速)",
@@ -2879,7 +2879,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 448,
-    "megaId": 10059
+    "varietyId": 10059
   },
   {
     "name": "モルペコ (最速)",
@@ -2901,7 +2901,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 877,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ライチュウ (準速)",
@@ -2922,7 +2922,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 26,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ライチュウ(アローラ) (準速)",
@@ -2944,7 +2944,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 26,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゲンガー (準速)",
@@ -2966,7 +2966,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 94,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ケンタロス (準速)",
@@ -2987,7 +2987,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エーフィ (準速)",
@@ -3008,7 +3008,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 196,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ユキメノコ (準速)",
@@ -3030,7 +3030,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 478,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゾロアーク(ヒスイ) (準速)",
@@ -3052,7 +3052,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 571,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルガルガン(たそがれ) (準速)",
@@ -3073,7 +3073,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 745,
-    "megaId": 0
+    "varietyId": 10152
   },
   {
     "name": "ミミッキュ (最速)",
@@ -3095,7 +3095,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 778,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドラパルト (無振り)",
@@ -3117,7 +3117,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 887,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガエルレイド (準速)",
@@ -3139,7 +3139,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 475,
-    "megaId": 10068
+    "varietyId": 10068
   },
   {
     "name": "メガライチュウX (準速)",
@@ -3161,7 +3161,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゲッコウガ (無振り)",
@@ -3183,7 +3183,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 658,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガエアームド (準速)",
@@ -3205,7 +3205,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 227,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "キュウコン(アローラ) (準速)",
@@ -3227,7 +3227,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 38,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウインディ (最速)",
@@ -3248,7 +3248,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 59,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バクフーン(ヒスイ) (最速)",
@@ -3270,7 +3270,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 157,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヘルガー (最速)",
@@ -3292,7 +3292,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 229,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サメハダー (最速)",
@@ -3314,7 +3314,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 319,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "リーフィア (最速)",
@@ -3335,7 +3335,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 470,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グライオン (最速)",
@@ -3357,7 +3357,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 472,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヘルガー (最速)",
@@ -3379,7 +3379,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 229,
-    "megaId": 10048
+    "varietyId": 10048
   },
   {
     "name": "ゴウカザル (準速)",
@@ -3401,7 +3401,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 392,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デカヌチャン (最速)",
@@ -3423,7 +3423,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 959,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "レパルダス (準速)",
@@ -3444,7 +3444,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 510,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ワルビアル (最速)",
@@ -3466,7 +3466,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 553,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カエンジシ (準速)",
@@ -3488,7 +3488,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 668,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガガブリアス (最速)",
@@ -3510,7 +3510,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 445,
-    "megaId": 10058
+    "varietyId": 10058
   },
   {
     "name": "メガシャリタツ (最速)",
@@ -3532,7 +3532,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 978,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ライボルト (準速)",
@@ -3553,7 +3553,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 310,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミミロップ (準速)",
@@ -3574,7 +3574,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 428,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ロトム (最速)",
@@ -3596,7 +3596,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゾロアーク (準速)",
@@ -3617,7 +3617,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 571,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカイロス (準速)",
@@ -3638,7 +3638,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 127,
-    "megaId": 10040
+    "varietyId": 10040
   },
   {
     "name": "メガサメハダー (準速)",
@@ -3660,7 +3660,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 319,
-    "megaId": 10070
+    "varietyId": 10070
   },
   {
     "name": "ピカチュウ (最速)",
@@ -3681,7 +3681,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 25,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウインディ(ヒスイ) (最速)",
@@ -3703,7 +3703,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 59,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガルーラ (最速)",
@@ -3724,7 +3724,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 115,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ロズレイド (最速)",
@@ -3746,7 +3746,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 407,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルカリオ (最速)",
@@ -3768,7 +3768,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 448,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マフォクシー (準速)",
@@ -3790,7 +3790,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 655,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニャオニクス(オス) (準速)",
@@ -3811,7 +3811,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 678,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニャオニクス(メス) (準速)",
@@ -3832,7 +3832,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 678,
-    "megaId": 0
+    "varietyId": 10025
   },
   {
     "name": "メガシャンデラ (最速)",
@@ -3854,7 +3854,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 609,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エモンガ (準速)",
@@ -3876,7 +3876,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 587,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ビビヨン (最速)",
@@ -3898,7 +3898,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 666,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガライボルト (無振り)",
@@ -3919,7 +3919,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 310,
-    "megaId": 10055
+    "varietyId": 10055
   },
   {
     "name": "メガミミロップ (無振り)",
@@ -3940,7 +3940,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 428,
-    "megaId": 10088
+    "varietyId": 10088
   },
   {
     "name": "メガドリュウズ (準速)",
@@ -3962,7 +3962,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 530,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガブリアス (準速)",
@@ -3984,7 +3984,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 445,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "トリミアン (準速)",
@@ -4005,7 +4005,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 676,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガガメノデス (最速)",
@@ -4027,7 +4027,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 689,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガフラエッテ (準速)",
@@ -4048,7 +4048,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 670,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカラマネロ (最速)",
@@ -4070,7 +4070,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 687,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガマフォクシー (無振り)",
@@ -4092,7 +4092,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 655,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ピジョット (準速)",
@@ -4114,7 +4114,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 18,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デデンネ (準速)",
@@ -4136,7 +4136,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 702,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガピジョット (準速)",
@@ -4158,7 +4158,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 18,
-    "megaId": 10073
+    "varietyId": 10073
   },
   {
     "name": "メガキラフロル (準速)",
@@ -4180,7 +4180,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 970,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "リザードン (準速)",
@@ -4202,7 +4202,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 6,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "キュウコン (準速)",
@@ -4223,7 +4223,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 38,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ケンタロス(パルデア単) (準速)",
@@ -4244,7 +4244,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 10250
   },
   {
     "name": "ケンタロス(パルデア炎) (準速)",
@@ -4266,7 +4266,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 10251
   },
   {
     "name": "ケンタロス(パルデア水) (準速)",
@@ -4288,7 +4288,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 10252
   },
   {
     "name": "バクフーン (準速)",
@@ -4309,7 +4309,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 157,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウルガモス (準速)",
@@ -4331,7 +4331,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 637,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イルカマン(ナイーブ) (準速)",
@@ -4352,7 +4352,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 964,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イルカマン(マイティ) (準速)",
@@ -4373,7 +4373,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 964,
-    "megaId": 0
+    "varietyId": 10256
   },
   {
     "name": "メガリザードン (準速)",
@@ -4395,7 +4395,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 6,
-    "megaId": 10034
+    "varietyId": 10034
   },
   {
     "name": "メガガルーラ (準速)",
@@ -4416,7 +4416,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 115,
-    "megaId": 10039
+    "varietyId": 10039
   },
   {
     "name": "メガサーナイト (準速)",
@@ -4438,7 +4438,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 282,
-    "megaId": 10051
+    "varietyId": 10051
   },
   {
     "name": "メガチャーレム (準速)",
@@ -4460,7 +4460,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 308,
-    "megaId": 10054
+    "varietyId": 10054
   },
   {
     "name": "メガオニゴーリ (準速)",
@@ -4481,7 +4481,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 362,
-    "megaId": 10074
+    "varietyId": 10074
   },
   {
     "name": "メガカイリュー (準速)",
@@ -4503,7 +4503,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 149,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガタイレーツ (準速)",
@@ -4525,7 +4525,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 870,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガジガルデ (準速)",
@@ -4547,7 +4547,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 718,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガセグレイブ (最速)",
@@ -4569,7 +4569,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 998,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ロトム(ヒート) (最速)",
@@ -4591,7 +4591,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10008
   },
   {
     "name": "ロトム(ウォッシュ) (最速)",
@@ -4613,7 +4613,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10009
   },
   {
     "name": "ロトム(カット) (最速)",
@@ -4635,7 +4635,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10012
   },
   {
     "name": "ロトム(スピン) (最速)",
@@ -4657,7 +4657,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10011
   },
   {
     "name": "ロトム(フロスト) (最速)",
@@ -4679,7 +4679,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10010
   },
   {
     "name": "パンプジン(小さい) (準速)",
@@ -4701,7 +4701,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カイロス (最速)",
@@ -4722,7 +4722,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 127,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サンダース (無振り)",
@@ -4743,7 +4743,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 135,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "プテラ (無振り)",
@@ -4765,7 +4765,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 142,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヘラクロス (最速)",
@@ -4787,7 +4787,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 214,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダイケンキ(ヒスイ) (最速)",
@@ -4809,7 +4809,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 503,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダゲキ (最速)",
@@ -4830,7 +4830,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 539,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サザンドラ (準速)",
@@ -4852,7 +4852,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 635,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジャラランガ (最速)",
@@ -4874,7 +4874,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 784,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バサギリ (最速)",
@@ -4896,7 +4896,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 900,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウェーニバル (最速)",
@@ -4918,7 +4918,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 914,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ソウブレイズ (最速)",
@@ -4940,7 +4940,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 937,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブリジュラス (最速)",
@@ -4962,7 +4962,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 1018,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゲンガー (無振り)",
@@ -4984,7 +4984,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 94,
-    "megaId": 10038
+    "varietyId": 10038
   },
   {
     "name": "メガヘラクロス (最速)",
@@ -5006,7 +5006,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 214,
-    "megaId": 10047
+    "varietyId": 10047
   },
   {
     "name": "メガライチュウY (無振り)",
@@ -5028,7 +5028,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(普通) (最速)",
@@ -5050,7 +5050,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "モルペコ (準速)",
@@ -5072,7 +5072,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 877,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミミッキュ (準速)",
@@ -5094,7 +5094,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 778,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウインディ (準速)",
@@ -5115,7 +5115,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 59,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バクフーン(ヒスイ) (準速)",
@@ -5137,7 +5137,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 157,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヘルガー (準速)",
@@ -5159,7 +5159,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 229,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サメハダー (準速)",
@@ -5181,7 +5181,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 319,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "リーフィア (準速)",
@@ -5202,7 +5202,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 470,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グライオン (準速)",
@@ -5224,7 +5224,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 472,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルガルガン(まよなか) (最速)",
@@ -5245,7 +5245,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 745,
-    "megaId": 0
+    "varietyId": 10126
   },
   {
     "name": "オトシドリ (最速)",
@@ -5267,7 +5267,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 962,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヘルガー (準速)",
@@ -5289,7 +5289,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 229,
-    "megaId": 10048
+    "varietyId": 10048
   },
   {
     "name": "ギャラドス (最速)",
@@ -5311,7 +5311,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 130,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミロカロス (最速)",
@@ -5332,7 +5332,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 350,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ファイアロー (無振り)",
@@ -5354,7 +5354,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 663,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デカヌチャン (準速)",
@@ -5376,7 +5376,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 959,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガギャラドス (最速)",
@@ -5398,7 +5398,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 130,
-    "megaId": 10041
+    "varietyId": 10041
   },
   {
     "name": "メガカエンジシ (無振り)",
@@ -5420,7 +5420,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 668,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フシギバナ (最速)",
@@ -5442,7 +5442,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 3,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アーボック (最速)",
@@ -5463,7 +5463,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 24,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カイリュー (最速)",
@@ -5485,7 +5485,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 149,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガニウム (最速)",
@@ -5506,7 +5506,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 154,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サーナイト (最速)",
@@ -5528,7 +5528,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 282,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "チャーレム (最速)",
@@ -5550,7 +5550,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 308,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "チルタリス (最速)",
@@ -5572,7 +5572,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 334,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オニゴーリ (最速)",
@@ -5593,7 +5593,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 362,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マニューラ (無振り)",
@@ -5615,7 +5615,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 461,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マンムー (最速)",
@@ -5637,7 +5637,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 473,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エルレイド (最速)",
@@ -5659,7 +5659,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 475,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "シャンデラ (最速)",
@@ -5681,7 +5681,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 609,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヌメルゴン (最速)",
@@ -5702,7 +5702,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 706,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ナゲツケサル (最速)",
@@ -5723,7 +5723,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 766,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガフシギバナ (最速)",
@@ -5745,7 +5745,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 3,
-    "megaId": 10033
+    "varietyId": 10033
   },
   {
     "name": "メガチルタリス (最速)",
@@ -5767,7 +5767,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 334,
-    "megaId": 10067
+    "varietyId": 10067
   },
   {
     "name": "メガメガニウム (最速)",
@@ -5789,7 +5789,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 154,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガシビルドン (最速)",
@@ -5811,7 +5811,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 604,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガダークライ (無振り)",
@@ -5832,7 +5832,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 491,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ワルビアル (準速)",
@@ -5854,7 +5854,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 553,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バイバニラ (最速)",
@@ -5875,7 +5875,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 584,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガガブリアス (準速)",
@@ -5897,7 +5897,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 445,
-    "megaId": 10058
+    "varietyId": 10058
   },
   {
     "name": "メガニャオニクス (無振り)",
@@ -5918,7 +5918,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 678,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガシャリタツ (準速)",
@@ -5940,7 +5940,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 978,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カメックス (最速)",
@@ -5961,7 +5961,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 9,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オーダイル (最速)",
@@ -5982,7 +5982,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 160,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ロトム (準速)",
@@ -6004,7 +6004,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ホルード (最速)",
@@ -6026,7 +6026,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 660,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オンバーン (無振り)",
@@ -6048,7 +6048,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 715,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イダイトウ(オス) (最速)",
@@ -6070,7 +6070,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 902,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イダイトウ(メス) (最速)",
@@ -6092,7 +6092,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 902,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マスカーニャ (無振り)",
@@ -6114,7 +6114,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 908,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカメックス (最速)",
@@ -6135,7 +6135,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 9,
-    "megaId": 10036
+    "varietyId": 10036
   },
   {
     "name": "メガオーダイル (最速)",
@@ -6157,7 +6157,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 160,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ピカチュウ (準速)",
@@ -6178,7 +6178,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 25,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウインディ(ヒスイ) (準速)",
@@ -6200,7 +6200,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 59,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガルーラ (準速)",
@@ -6221,7 +6221,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 115,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ロズレイド (準速)",
@@ -6243,7 +6243,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 407,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルカリオ (準速)",
@@ -6265,7 +6265,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 448,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゲッコウガ (無振り)",
@@ -6287,7 +6287,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 658,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガシャンデラ (準速)",
@@ -6309,7 +6309,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 609,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミルホッグ (最速)",
@@ -6330,7 +6330,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 505,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ビビヨン (準速)",
@@ -6352,7 +6352,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 666,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガムクホーク (無振り)",
@@ -6374,7 +6374,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 398,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フーディン (無振り)",
@@ -6395,7 +6395,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 65,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オオニューラ (無振り)",
@@ -6417,7 +6417,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 903,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガガメノデス (準速)",
@@ -6439,7 +6439,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 689,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガスターミー (無振り)",
@@ -6461,7 +6461,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 121,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカラマネロ (準速)",
@@ -6483,7 +6483,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 687,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガユキメノコ (無振り)",
@@ -6505,7 +6505,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 478,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "スピアー (最速)",
@@ -6527,7 +6527,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 15,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アブソル (最速)",
@@ -6548,7 +6548,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 359,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダストダス (最速)",
@@ -6569,7 +6569,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 569,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フラージェス (最速)",
@@ -6590,7 +6590,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 671,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "クレッフィ (最速)",
@@ -6612,7 +6612,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 707,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ワッカネズミ (最速)",
@@ -6633,7 +6633,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 924,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グレンアルマ (最速)",
@@ -6655,7 +6655,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 936,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "スコヴィラン (最速)",
@@ -6677,7 +6677,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 952,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガスピアー (最速)",
@@ -6699,7 +6699,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 15,
-    "megaId": 10090
+    "varietyId": 10090
   },
   {
     "name": "メガハッサム (最速)",
@@ -6721,7 +6721,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 212,
-    "megaId": 10046
+    "varietyId": 10046
   },
   {
     "name": "メガジュペッタ (最速)",
@@ -6742,7 +6742,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 354,
-    "megaId": 10056
+    "varietyId": 10056
   },
   {
     "name": "メガエンブオー (最速)",
@@ -6764,7 +6764,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 500,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガスコヴィラン (最速)",
@@ -6786,7 +6786,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 952,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガセグレイブ (準速)",
@@ -6808,7 +6808,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 998,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ロトム(ヒート) (準速)",
@@ -6830,7 +6830,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10008
   },
   {
     "name": "ロトム(ウォッシュ) (準速)",
@@ -6852,7 +6852,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10009
   },
   {
     "name": "ロトム(カット) (準速)",
@@ -6874,7 +6874,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10012
   },
   {
     "name": "ロトム(スピン) (準速)",
@@ -6896,7 +6896,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10011
   },
   {
     "name": "ロトム(フロスト) (準速)",
@@ -6918,7 +6918,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10010
   },
   {
     "name": "ルチャブル (無振り)",
@@ -6940,7 +6940,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 701,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガルチャブル (無振り)",
@@ -6962,7 +6962,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 701,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カイロス (準速)",
@@ -6983,7 +6983,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 127,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヘラクロス (準速)",
@@ -7005,7 +7005,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 214,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダイケンキ(ヒスイ) (準速)",
@@ -7027,7 +7027,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 503,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダゲキ (準速)",
@@ -7048,7 +7048,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 539,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エンニュート (無振り)",
@@ -7070,7 +7070,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 758,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジャラランガ (準速)",
@@ -7092,7 +7092,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 784,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バサギリ (準速)",
@@ -7114,7 +7114,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 900,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウェーニバル (準速)",
@@ -7136,7 +7136,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 914,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ソウブレイズ (準速)",
@@ -7158,7 +7158,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 937,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブリジュラス (準速)",
@@ -7180,7 +7180,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 1018,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヘラクロス (準速)",
@@ -7202,7 +7202,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 214,
-    "megaId": 10047
+    "varietyId": 10047
   },
   {
     "name": "エルフーン (無振り)",
@@ -7224,7 +7224,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 547,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ペロリーム (最速)",
@@ -7245,7 +7245,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 685,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(普通) (準速)",
@@ -7267,7 +7267,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アマージョ (最速)",
@@ -7288,7 +7288,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 763,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "スターミー (無振り)",
@@ -7310,7 +7310,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 121,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガチゴラス (最速)",
@@ -7332,7 +7332,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 697,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サダイジャ (最速)",
@@ -7353,7 +7353,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 844,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガバンギラス (最速)",
@@ -7375,7 +7375,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 248,
-    "megaId": 10049
+    "varietyId": 10049
   },
   {
     "name": "メガアブソル (無振り)",
@@ -7396,7 +7396,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 359,
-    "megaId": 10057
+    "varietyId": 10057
   },
   {
     "name": "ウツボット (最速)",
@@ -7418,7 +7418,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 71,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニョロトノ (最速)",
@@ -7439,7 +7439,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 186,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エアームド (最速)",
@@ -7461,7 +7461,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 227,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ポワルン (最速)",
@@ -7482,7 +7482,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 351,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "レントラー (最速)",
@@ -7503,7 +7503,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 405,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダイケンキ (最速)",
@@ -7524,7 +7524,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 503,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エリキテル (最速)",
@@ -7546,7 +7546,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 694,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジュナイパー (最速)",
@@ -7568,7 +7568,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 724,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルガルガン(まよなか) (準速)",
@@ -7589,7 +7589,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 745,
-    "megaId": 0
+    "varietyId": 10126
   },
   {
     "name": "アップリュ (最速)",
@@ -7611,7 +7611,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ポットデス (最速)",
@@ -7632,7 +7632,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 855,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バリコオル (最速)",
@@ -7654,7 +7654,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 866,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オトシドリ (準速)",
@@ -7676,7 +7676,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 962,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガピクシー (最速)",
@@ -7698,7 +7698,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 36,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガウツボット (最速)",
@@ -7720,7 +7720,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 71,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ギャラドス (準速)",
@@ -7742,7 +7742,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 130,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミロカロス (準速)",
@@ -7763,7 +7763,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 350,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジャローダ (無振り)",
@@ -7784,7 +7784,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 497,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(大きい) (最速)",
@@ -7806,7 +7806,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガギャラドス (準速)",
@@ -7828,7 +7828,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 130,
-    "megaId": 10041
+    "varietyId": 10041
   },
   {
     "name": "メガヒードラン (無振り)",
@@ -7850,7 +7850,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 485,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フシギバナ (準速)",
@@ -7872,7 +7872,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 3,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アーボック (準速)",
@@ -7893,7 +7893,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 24,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カイリュー (準速)",
@@ -7915,7 +7915,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 149,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガニウム (準速)",
@@ -7936,7 +7936,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 154,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サーナイト (準速)",
@@ -7958,7 +7958,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 282,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "チャーレム (準速)",
@@ -7980,7 +7980,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 308,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "チルタリス (準速)",
@@ -8002,7 +8002,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 334,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オニゴーリ (準速)",
@@ -8023,7 +8023,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 362,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マンムー (準速)",
@@ -8045,7 +8045,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 473,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エルレイド (準速)",
@@ -8067,7 +8067,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 475,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "シャンデラ (準速)",
@@ -8089,7 +8089,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 609,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガメノデス (最速)",
@@ -8111,7 +8111,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 689,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヌメルゴン (準速)",
@@ -8132,7 +8132,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 706,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルガルガン(まひる) (無振り)",
@@ -8153,7 +8153,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 745,
-    "megaId": 0
+    "varietyId": 745
   },
   {
     "name": "ナゲツケサル (準速)",
@@ -8174,7 +8174,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 766,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガフシギバナ (準速)",
@@ -8196,7 +8196,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 3,
-    "megaId": 10033
+    "varietyId": 10033
   },
   {
     "name": "メガチルタリス (準速)",
@@ -8218,7 +8218,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 334,
-    "megaId": 10067
+    "varietyId": 10067
   },
   {
     "name": "メガルカリオ (無振り)",
@@ -8240,7 +8240,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 448,
-    "megaId": 10059
+    "varietyId": 10059
   },
   {
     "name": "メガメガニウム (準速)",
@@ -8262,7 +8262,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 154,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガシビルドン (準速)",
@@ -8284,7 +8284,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 604,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガズルズキン (最速)",
@@ -8306,7 +8306,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 560,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バイバニラ (準速)",
@@ -8327,7 +8327,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 584,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カメックス (準速)",
@@ -8348,7 +8348,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 9,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ライチュウ (無振り)",
@@ -8369,7 +8369,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 26,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ライチュウ(アローラ) (無振り)",
@@ -8391,7 +8391,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 26,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゲンガー (無振り)",
@@ -8413,7 +8413,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 94,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ケンタロス (無振り)",
@@ -8434,7 +8434,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オーダイル (準速)",
@@ -8455,7 +8455,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 160,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エーフィ (無振り)",
@@ -8476,7 +8476,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 196,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ユキメノコ (無振り)",
@@ -8498,7 +8498,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 478,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゾロアーク(ヒスイ) (無振り)",
@@ -8520,7 +8520,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 571,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ホルード (準速)",
@@ -8542,7 +8542,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 660,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルガルガン(たそがれ) (無振り)",
@@ -8563,7 +8563,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 745,
-    "megaId": 0
+    "varietyId": 10152
   },
   {
     "name": "アーマーガア (最速)",
@@ -8585,7 +8585,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 823,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イダイトウ(オス) (準速)",
@@ -8607,7 +8607,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 902,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イダイトウ(メス) (準速)",
@@ -8629,7 +8629,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 902,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカメックス (準速)",
@@ -8650,7 +8650,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 9,
-    "megaId": 10036
+    "varietyId": 10036
   },
   {
     "name": "メガエルレイド (無振り)",
@@ -8672,7 +8672,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 475,
-    "megaId": 10068
+    "varietyId": 10068
   },
   {
     "name": "メガオーダイル (準速)",
@@ -8694,7 +8694,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 160,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガライチュウX (無振り)",
@@ -8716,7 +8716,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガエアームド (無振り)",
@@ -8738,7 +8738,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 227,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "キュウコン(アローラ) (無振り)",
@@ -8760,7 +8760,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 38,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミルホッグ (準速)",
@@ -8781,7 +8781,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 505,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ラウドボーン (最速)",
@@ -8803,7 +8803,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 911,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "シャワーズ (最速)",
@@ -8824,7 +8824,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 134,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブースター (最速)",
@@ -8845,7 +8845,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 136,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブラッキー (最速)",
@@ -8866,7 +8866,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 197,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ハッサム (最速)",
@@ -8888,7 +8888,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 212,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ペリッパー (最速)",
@@ -8910,7 +8910,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 279,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジュペッタ (最速)",
@@ -8931,7 +8931,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 354,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "チリーン (最速)",
@@ -8952,7 +8952,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 358,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゴウカザル (無振り)",
@@ -8974,7 +8974,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 392,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グレイシア (最速)",
@@ -8995,7 +8995,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 471,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エンブオー (最速)",
@@ -9017,7 +9017,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 500,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アヤシシ (最速)",
@@ -9039,7 +9039,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 899,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミミズズ (最速)",
@@ -9060,7 +9060,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 968,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガチリーン (最速)",
@@ -9082,7 +9082,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 358,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "スピアー (準速)",
@@ -9104,7 +9104,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 15,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アブソル (準速)",
@@ -9125,7 +9125,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 359,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤナップ (最速)",
@@ -9146,7 +9146,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 511,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バオップ (最速)",
@@ -9167,7 +9167,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 513,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヒヤップ (最速)",
@@ -9188,7 +9188,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 515,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダストダス (準速)",
@@ -9209,7 +9209,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 569,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブリガロン (最速)",
@@ -9231,7 +9231,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 652,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フラージェス (準速)",
@@ -9252,7 +9252,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 671,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "クレッフィ (準速)",
@@ -9274,7 +9274,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 707,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マホイップ (最速)",
@@ -9295,7 +9295,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 869,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ワッカネズミ (準速)",
@@ -9316,7 +9316,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 924,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グレンアルマ (準速)",
@@ -9338,7 +9338,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 936,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "スコヴィラン (準速)",
@@ -9360,7 +9360,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 952,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガスピアー (準速)",
@@ -9382,7 +9382,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 15,
-    "megaId": 10090
+    "varietyId": 10090
   },
   {
     "name": "メガハッサム (準速)",
@@ -9404,7 +9404,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 212,
-    "megaId": 10046
+    "varietyId": 10046
   },
   {
     "name": "メガジュペッタ (準速)",
@@ -9425,7 +9425,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 354,
-    "megaId": 10056
+    "varietyId": 10056
   },
   {
     "name": "メガエンブオー (準速)",
@@ -9447,7 +9447,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 500,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガスコヴィラン (準速)",
@@ -9469,7 +9469,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 952,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "レパルダス (無振り)",
@@ -9490,7 +9490,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 510,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カエンジシ (無振り)",
@@ -9512,7 +9512,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 668,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ライボルト (無振り)",
@@ -9533,7 +9533,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 310,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミミロップ (無振り)",
@@ -9554,7 +9554,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 428,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゾロアーク (無振り)",
@@ -9575,7 +9575,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 571,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカイロス (無振り)",
@@ -9596,7 +9596,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 127,
-    "megaId": 10040
+    "varietyId": 10040
   },
   {
     "name": "メガサメハダー (無振り)",
@@ -9618,7 +9618,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 319,
-    "megaId": 10070
+    "varietyId": 10070
   },
   {
     "name": "メガペンドラー (最速)",
@@ -9640,7 +9640,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 545,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バンギラス (最速)",
@@ -9662,7 +9662,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 248,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マフォクシー (無振り)",
@@ -9684,7 +9684,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 655,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニャオニクス(オス) (無振り)",
@@ -9705,7 +9705,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 678,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニャオニクス(メス) (無振り)",
@@ -9726,7 +9726,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 678,
-    "megaId": 0
+    "varietyId": 10025
   },
   {
     "name": "ペロリーム (準速)",
@@ -9747,7 +9747,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 685,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アマージョ (準速)",
@@ -9768,7 +9768,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 763,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エンペルト (最速)",
@@ -9790,7 +9790,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 395,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ユキノオー (最速)",
@@ -9812,7 +9812,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 460,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エモンガ (無振り)",
@@ -9834,7 +9834,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 587,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ギルガルド(シールド) (最速)",
@@ -9856,7 +9856,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 681,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ギルガルド(ブレード) (最速)",
@@ -9878,7 +9878,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 681,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガチゴラス (準速)",
@@ -9900,7 +9900,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 697,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニンフィア (最速)",
@@ -9921,7 +9921,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 700,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヌメルゴン(ヒスイ) (最速)",
@@ -9943,7 +9943,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 706,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジュナイパー(ヒスイ) (最速)",
@@ -9965,7 +9965,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 724,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガオガエン (最速)",
@@ -9987,7 +9987,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 727,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アシレーヌ (最速)",
@@ -10009,7 +10009,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 730,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドデカバシ (最速)",
@@ -10031,7 +10031,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 733,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤレユータン (最速)",
@@ -10053,7 +10053,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 765,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サダイジャ (準速)",
@@ -10074,7 +10074,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 844,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "リキキリン (最速)",
@@ -10096,7 +10096,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 981,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガバンギラス (準速)",
@@ -10118,7 +10118,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 248,
-    "megaId": 10049
+    "varietyId": 10049
   },
   {
     "name": "メガドリュウズ (無振り)",
@@ -10140,7 +10140,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 530,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウツボット (準速)",
@@ -10162,7 +10162,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 71,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニョロトノ (準速)",
@@ -10183,7 +10183,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 186,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エアームド (準速)",
@@ -10205,7 +10205,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 227,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ポワルン (準速)",
@@ -10226,7 +10226,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 351,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "レントラー (準速)",
@@ -10247,7 +10247,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 405,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガブリアス (無振り)",
@@ -10269,7 +10269,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 445,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダイケンキ (準速)",
@@ -10290,7 +10290,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 503,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "トリミアン (無振り)",
@@ -10311,7 +10311,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 676,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エリキテル (準速)",
@@ -10333,7 +10333,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 694,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジュナイパー (準速)",
@@ -10355,7 +10355,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 724,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アップリュ (準速)",
@@ -10377,7 +10377,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ポットデス (準速)",
@@ -10398,7 +10398,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 855,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バリコオル (準速)",
@@ -10420,7 +10420,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 866,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガフラエッテ (無振り)",
@@ -10441,7 +10441,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 670,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガピクシー (準速)",
@@ -10463,7 +10463,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 36,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガウツボット (準速)",
@@ -10485,7 +10485,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 71,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ピジョット (無振り)",
@@ -10507,7 +10507,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 18,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ラムパルド (最速)",
@@ -10528,7 +10528,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 409,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゴロンダ (最速)",
@@ -10550,7 +10550,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 675,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アマルルガ (最速)",
@@ -10572,7 +10572,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 699,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デデンネ (無振り)",
@@ -10594,7 +10594,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 702,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(大きい) (準速)",
@@ -10616,7 +10616,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガピジョット (無振り)",
@@ -10638,7 +10638,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 18,
-    "megaId": 10073
+    "varietyId": 10073
   },
   {
     "name": "メガキラフロル (無振り)",
@@ -10660,7 +10660,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 970,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "リザードン (無振り)",
@@ -10682,7 +10682,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 6,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "キュウコン (無振り)",
@@ -10703,7 +10703,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 38,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ケンタロス(パルデア単) (無振り)",
@@ -10724,7 +10724,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 10250
   },
   {
     "name": "ケンタロス(パルデア炎) (無振り)",
@@ -10746,7 +10746,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 10251
   },
   {
     "name": "ケンタロス(パルデア水) (無振り)",
@@ -10768,7 +10768,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 128,
-    "megaId": 0
+    "varietyId": 10252
   },
   {
     "name": "バクフーン (無振り)",
@@ -10789,7 +10789,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 157,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウルガモス (無振り)",
@@ -10811,7 +10811,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 637,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガメノデス (準速)",
@@ -10833,7 +10833,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 689,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イルカマン(ナイーブ) (無振り)",
@@ -10854,7 +10854,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 964,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イルカマン(マイティ) (無振り)",
@@ -10875,7 +10875,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 964,
-    "megaId": 0
+    "varietyId": 10256
   },
   {
     "name": "メガリザードン (無振り)",
@@ -10897,7 +10897,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 6,
-    "megaId": 10034
+    "varietyId": 10034
   },
   {
     "name": "メガガルーラ (無振り)",
@@ -10918,7 +10918,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 115,
-    "megaId": 10039
+    "varietyId": 10039
   },
   {
     "name": "メガサーナイト (無振り)",
@@ -10940,7 +10940,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 282,
-    "megaId": 10051
+    "varietyId": 10051
   },
   {
     "name": "メガチャーレム (無振り)",
@@ -10962,7 +10962,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 308,
-    "megaId": 10054
+    "varietyId": 10054
   },
   {
     "name": "メガオニゴーリ (無振り)",
@@ -10983,7 +10983,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 362,
-    "megaId": 10074
+    "varietyId": 10074
   },
   {
     "name": "メガカイリュー (無振り)",
@@ -11005,7 +11005,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 149,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガズルズキン (準速)",
@@ -11027,7 +11027,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 560,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガタイレーツ (無振り)",
@@ -11049,7 +11049,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 870,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガジガルデ (無振り)",
@@ -11071,7 +11071,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 718,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(小さい) (無振り)",
@@ -11093,7 +11093,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アーマーガア (準速)",
@@ -11115,7 +11115,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 823,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドダイトス (最速)",
@@ -11137,7 +11137,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 389,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サザンドラ (無振り)",
@@ -11159,7 +11159,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 635,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オーロット (最速)",
@@ -11181,7 +11181,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 709,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ラウドボーン (準速)",
@@ -11203,7 +11203,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 911,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カイリキー (最速)",
@@ -11224,7 +11224,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 68,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "シャワーズ (準速)",
@@ -11245,7 +11245,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 134,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブースター (準速)",
@@ -11266,7 +11266,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 136,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デンリュウ (最速)",
@@ -11287,7 +11287,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 181,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブラッキー (準速)",
@@ -11308,7 +11308,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 197,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ハッサム (準速)",
@@ -11330,7 +11330,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 212,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ペリッパー (準速)",
@@ -11352,7 +11352,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 279,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジュペッタ (準速)",
@@ -11373,7 +11373,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 354,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "チリーン (準速)",
@@ -11394,7 +11394,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 358,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グレイシア (準速)",
@@ -11415,7 +11415,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 471,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エンブオー (準速)",
@@ -11437,7 +11437,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 500,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゴルーグ (最速)",
@@ -11459,7 +11459,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 623,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "モルペコ (無振り)",
@@ -11481,7 +11481,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 877,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アヤシシ (準速)",
@@ -11503,7 +11503,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 899,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミミズズ (準速)",
@@ -11524,7 +11524,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 968,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガデンリュウ (最速)",
@@ -11545,7 +11545,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 181,
-    "megaId": 10045
+    "varietyId": 10045
   },
   {
     "name": "メガチリーン (準速)",
@@ -11567,7 +11567,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 358,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゴルーグ (最速)",
@@ -11589,7 +11589,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 623,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガマギアナ (最速)",
@@ -11611,7 +11611,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 801,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤナップ (準速)",
@@ -11632,7 +11632,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 511,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バオップ (準速)",
@@ -11653,7 +11653,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 513,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヒヤップ (準速)",
@@ -11674,7 +11674,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 515,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブリガロン (準速)",
@@ -11696,7 +11696,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 652,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(特大) (最速)",
@@ -11718,7 +11718,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミミッキュ (無振り)",
@@ -11740,7 +11740,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 778,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マホイップ (準速)",
@@ -11761,7 +11761,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 869,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウインディ (無振り)",
@@ -11782,7 +11782,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 59,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バクフーン(ヒスイ) (無振り)",
@@ -11804,7 +11804,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 157,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヘルガー (無振り)",
@@ -11826,7 +11826,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 229,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サメハダー (無振り)",
@@ -11848,7 +11848,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 319,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "リーフィア (無振り)",
@@ -11869,7 +11869,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 470,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グライオン (無振り)",
@@ -11891,7 +11891,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 472,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヘルガー (無振り)",
@@ -11913,7 +11913,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 229,
-    "megaId": 10048
+    "varietyId": 10048
   },
   {
     "name": "デカヌチャン (無振り)",
@@ -11935,7 +11935,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 959,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガペンドラー (準速)",
@@ -11957,7 +11957,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 545,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バンギラス (準速)",
@@ -11979,7 +11979,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 248,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マリルリ (最速)",
@@ -12001,7 +12001,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 184,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤミラミ (最速)",
@@ -12023,7 +12023,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 302,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ボスゴドラ (最速)",
@@ -12045,7 +12045,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 306,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エンペルト (準速)",
@@ -12067,7 +12067,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 395,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グレッグル (最速)",
@@ -12089,7 +12089,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 453,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ユキノオー (準速)",
@@ -12111,7 +12111,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 460,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "タブンネ (最速)",
@@ -12132,7 +12132,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 531,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ワルビアル (無振り)",
@@ -12154,7 +12154,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 553,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ツンベアー (最速)",
@@ -12175,7 +12175,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 614,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ギルガルド(シールド) (準速)",
@@ -12197,7 +12197,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 681,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ギルガルド(ブレード) (準速)",
@@ -12219,7 +12219,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 681,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニンフィア (準速)",
@@ -12240,7 +12240,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 700,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヌメルゴン(ヒスイ) (準速)",
@@ -12262,7 +12262,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 706,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジュナイパー(ヒスイ) (準速)",
@@ -12284,7 +12284,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 724,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガオガエン (準速)",
@@ -12306,7 +12306,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 727,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アシレーヌ (準速)",
@@ -12328,7 +12328,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 730,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドデカバシ (準速)",
@@ -12350,7 +12350,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 733,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤレユータン (準速)",
@@ -12372,7 +12372,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 765,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "リキキリン (準速)",
@@ -12394,7 +12394,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 981,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドドゲザン (最速)",
@@ -12416,7 +12416,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 983,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガボスゴドラ (最速)",
@@ -12438,7 +12438,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 306,
-    "megaId": 10053
+    "varietyId": 10053
   },
   {
     "name": "メガガブリアス (無振り)",
@@ -12460,7 +12460,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 445,
-    "megaId": 10058
+    "varietyId": 10058
   },
   {
     "name": "メガタブンネ (最速)",
@@ -12481,7 +12481,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 531,
-    "megaId": 10069
+    "varietyId": 10069
   },
   {
     "name": "メガシャリタツ (無振り)",
@@ -12503,7 +12503,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 978,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ロトム (無振り)",
@@ -12525,7 +12525,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ピカチュウ (無振り)",
@@ -12546,7 +12546,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 25,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウインディ(ヒスイ) (無振り)",
@@ -12568,7 +12568,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 59,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガルーラ (無振り)",
@@ -12589,7 +12589,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 115,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メタモン (最速)",
@@ -12610,7 +12610,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 132,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ロズレイド (無振り)",
@@ -12632,7 +12632,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 407,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ラムパルド (準速)",
@@ -12653,7 +12653,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 409,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルカリオ (無振り)",
@@ -12675,7 +12675,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 448,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゴロンダ (準速)",
@@ -12697,7 +12697,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 675,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アマルルガ (準速)",
@@ -12719,7 +12719,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 699,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガシャンデラ (無振り)",
@@ -12741,7 +12741,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 609,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ビビヨン (無振り)",
@@ -12763,7 +12763,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 666,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドダイトス (準速)",
@@ -12785,7 +12785,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 389,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カバルドン (最速)",
@@ -12806,7 +12806,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 450,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オーロット (準速)",
@@ -12828,7 +12828,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 709,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガガメノデス (無振り)",
@@ -12850,7 +12850,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 689,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカラマネロ (無振り)",
@@ -12872,7 +12872,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 687,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カイリキー (準速)",
@@ -12893,7 +12893,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 68,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デンリュウ (準速)",
@@ -12914,7 +12914,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 181,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゴルーグ (準速)",
@@ -12936,7 +12936,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 623,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガデンリュウ (準速)",
@@ -12957,7 +12957,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 181,
-    "megaId": 10045
+    "varietyId": 10045
   },
   {
     "name": "メガセグレイブ (無振り)",
@@ -12979,7 +12979,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 998,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガゴルーグ (準速)",
@@ -13001,7 +13001,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 623,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガマギアナ (準速)",
@@ -13023,7 +13023,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 801,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ロトム(ヒート) (無振り)",
@@ -13045,7 +13045,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10008
   },
   {
     "name": "ロトム(ウォッシュ) (無振り)",
@@ -13067,7 +13067,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10009
   },
   {
     "name": "ロトム(カット) (無振り)",
@@ -13089,7 +13089,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10012
   },
   {
     "name": "ロトム(スピン) (無振り)",
@@ -13111,7 +13111,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10011
   },
   {
     "name": "ロトム(フロスト) (無振り)",
@@ -13133,7 +13133,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 479,
-    "megaId": 0
+    "varietyId": 10010
   },
   {
     "name": "ローブシン (最速)",
@@ -13154,7 +13154,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 534,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(特大) (準速)",
@@ -13176,7 +13176,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ハラバリー (最速)",
@@ -13197,7 +13197,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 939,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カイロス (無振り)",
@@ -13218,7 +13218,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 127,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヘラクロス (無振り)",
@@ -13240,7 +13240,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 214,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダイケンキ(ヒスイ) (無振り)",
@@ -13262,7 +13262,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 503,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダゲキ (無振り)",
@@ -13283,7 +13283,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 539,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジャラランガ (無振り)",
@@ -13305,7 +13305,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 784,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バサギリ (無振り)",
@@ -13327,7 +13327,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 900,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ウェーニバル (無振り)",
@@ -13349,7 +13349,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 914,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ソウブレイズ (無振り)",
@@ -13371,7 +13371,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 937,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブリジュラス (無振り)",
@@ -13393,7 +13393,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 1018,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヘラクロス (無振り)",
@@ -13415,7 +13415,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 214,
-    "megaId": 10047
+    "varietyId": 10047
   },
   {
     "name": "メガドラミドロ (最速)",
@@ -13437,7 +13437,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 691,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガブリガロン (最速)",
@@ -13459,7 +13459,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 652,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(普通) (無振り)",
@@ -13481,7 +13481,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ケケンカニ (最速)",
@@ -13503,7 +13503,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 740,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オニシズクモ (最速)",
@@ -13525,7 +13525,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 752,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マリルリ (準速)",
@@ -13547,7 +13547,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 184,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤミラミ (準速)",
@@ -13569,7 +13569,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 302,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ボスゴドラ (準速)",
@@ -13591,7 +13591,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 306,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グレッグル (準速)",
@@ -13613,7 +13613,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 453,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "タブンネ (準速)",
@@ -13634,7 +13634,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 531,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ツンベアー (準速)",
@@ -13655,7 +13655,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 614,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ルガルガン(まよなか) (無振り)",
@@ -13676,7 +13676,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 745,
-    "megaId": 0
+    "varietyId": 10126
   },
   {
     "name": "オトシドリ (無振り)",
@@ -13698,7 +13698,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 962,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドドゲザン (準速)",
@@ -13720,7 +13720,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 983,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガボスゴドラ (準速)",
@@ -13742,7 +13742,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 306,
-    "megaId": 10053
+    "varietyId": 10053
   },
   {
     "name": "メガタブンネ (準速)",
@@ -13763,7 +13763,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 531,
-    "megaId": 10069
+    "varietyId": 10069
   },
   {
     "name": "ギャラドス (無振り)",
@@ -13785,7 +13785,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 130,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アリアドス (最速)",
@@ -13807,7 +13807,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 168,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フォレトス (最速)",
@@ -13829,7 +13829,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 205,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バクーダ (最速)",
@@ -13851,7 +13851,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 323,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミロカロス (無振り)",
@@ -13872,7 +13872,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 350,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドサイドン (最速)",
@@ -13894,7 +13894,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 464,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カミッチュ (最速)",
@@ -13916,7 +13916,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 1011,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガギャラドス (無振り)",
@@ -13938,7 +13938,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 130,
-    "megaId": 10041
+    "varietyId": 10041
   },
   {
     "name": "メガグソクムシャ (最速)",
@@ -13960,7 +13960,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 768,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フシギバナ (無振り)",
@@ -13982,7 +13982,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 3,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アーボック (無振り)",
@@ -14003,7 +14003,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 24,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メタモン (準速)",
@@ -14024,7 +14024,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 132,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カイリュー (無振り)",
@@ -14046,7 +14046,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 149,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガニウム (無振り)",
@@ -14067,7 +14067,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 154,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サーナイト (無振り)",
@@ -14089,7 +14089,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 282,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "チャーレム (無振り)",
@@ -14111,7 +14111,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 308,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "チルタリス (無振り)",
@@ -14133,7 +14133,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 334,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オニゴーリ (無振り)",
@@ -14154,7 +14154,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 362,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マンムー (無振り)",
@@ -14176,7 +14176,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 473,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エルレイド (無振り)",
@@ -14198,7 +14198,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 475,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "シャンデラ (無振り)",
@@ -14220,7 +14220,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 609,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヌメルゴン (無振り)",
@@ -14241,7 +14241,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 706,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ナゲツケサル (無振り)",
@@ -14262,7 +14262,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 766,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガフシギバナ (無振り)",
@@ -14284,7 +14284,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 3,
-    "megaId": 10033
+    "varietyId": 10033
   },
   {
     "name": "メガチルタリス (無振り)",
@@ -14306,7 +14306,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 334,
-    "megaId": 10067
+    "varietyId": 10067
   },
   {
     "name": "メガメガニウム (無振り)",
@@ -14328,7 +14328,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 154,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガシビルドン (無振り)",
@@ -14350,7 +14350,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 604,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カバルドン (準速)",
@@ -14371,7 +14371,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 450,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バイバニラ (無振り)",
@@ -14392,7 +14392,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 584,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "クレベース(ヒスイ) (最速)",
@@ -14414,7 +14414,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 713,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カメックス (無振り)",
@@ -14435,7 +14435,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 9,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オーダイル (無振り)",
@@ -14456,7 +14456,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 160,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ホルード (無振り)",
@@ -14478,7 +14478,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 660,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イダイトウ(オス) (無振り)",
@@ -14500,7 +14500,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 902,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "イダイトウ(メス) (無振り)",
@@ -14522,7 +14522,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 902,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガカメックス (無振り)",
@@ -14543,7 +14543,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 9,
-    "megaId": 10036
+    "varietyId": 10036
   },
   {
     "name": "メガオーダイル (無振り)",
@@ -14565,7 +14565,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 160,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミルホッグ (無振り)",
@@ -14586,7 +14586,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 505,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ローブシン (準速)",
@@ -14607,7 +14607,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 534,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ハラバリー (準速)",
@@ -14628,7 +14628,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 939,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジジーロン (最速)",
@@ -14650,7 +14650,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 780,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガドラミドロ (準速)",
@@ -14672,7 +14672,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 691,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガブリガロン (準速)",
@@ -14694,7 +14694,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 652,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガジジーロン (最速)",
@@ -14716,7 +14716,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 780,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "スピアー (無振り)",
@@ -14738,7 +14738,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 15,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ピッピ (最速)",
@@ -14759,7 +14759,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 35,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アブソル (無振り)",
@@ -14780,7 +14780,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 359,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミカルゲ (最速)",
@@ -14802,7 +14802,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 442,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダストダス (無振り)",
@@ -14823,7 +14823,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 569,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フラージェス (無振り)",
@@ -14844,7 +14844,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 671,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "クレッフィ (無振り)",
@@ -14866,7 +14866,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 707,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ケケンカニ (準速)",
@@ -14888,7 +14888,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 740,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バンバドロ (最速)",
@@ -14909,7 +14909,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 750,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ワッカネズミ (無振り)",
@@ -14930,7 +14930,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 924,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "キョジオーン (最速)",
@@ -14951,7 +14951,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 934,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グレンアルマ (無振り)",
@@ -14973,7 +14973,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 936,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "スコヴィラン (無振り)",
@@ -14995,7 +14995,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 952,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガスピアー (無振り)",
@@ -15017,7 +15017,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 15,
-    "megaId": 10090
+    "varietyId": 10090
   },
   {
     "name": "メガハッサム (無振り)",
@@ -15039,7 +15039,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 212,
-    "megaId": 10046
+    "varietyId": 10046
   },
   {
     "name": "メガジュペッタ (無振り)",
@@ -15060,7 +15060,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 354,
-    "megaId": 10056
+    "varietyId": 10056
   },
   {
     "name": "メガエンブオー (無振り)",
@@ -15082,7 +15082,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 500,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガスコヴィラン (無振り)",
@@ -15104,7 +15104,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 952,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オニシズクモ (準速)",
@@ -15126,7 +15126,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 752,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヒドイデ (最速)",
@@ -15148,7 +15148,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 747,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アリアドス (準速)",
@@ -15170,7 +15170,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 168,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フォレトス (準速)",
@@ -15192,7 +15192,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 205,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バクーダ (準速)",
@@ -15214,7 +15214,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 323,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドサイドン (準速)",
@@ -15236,7 +15236,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 464,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マッギョ (最速)",
@@ -15258,7 +15258,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 618,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マッギョ(ガラル) (最速)",
@@ -15280,7 +15280,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 618,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ペロリーム (無振り)",
@@ -15301,7 +15301,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 685,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アマージョ (無振り)",
@@ -15322,7 +15322,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 763,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カミッチュ (準速)",
@@ -15344,7 +15344,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 1011,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガグソクムシャ (準速)",
@@ -15366,7 +15366,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 768,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガチゴラス (無振り)",
@@ -15388,7 +15388,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 697,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サダイジャ (無振り)",
@@ -15409,7 +15409,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 844,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガバンギラス (無振り)",
@@ -15431,7 +15431,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 248,
-    "megaId": 10049
+    "varietyId": 10049
   },
   {
     "name": "ウツボット (無振り)",
@@ -15453,7 +15453,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 71,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドラン (最速)",
@@ -15475,7 +15475,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 80,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドラン(ガラル) (最速)",
@@ -15497,7 +15497,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 80,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カビゴン (最速)",
@@ -15518,7 +15518,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 143,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニョロトノ (無振り)",
@@ -15539,7 +15539,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 186,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドキング (最速)",
@@ -15561,7 +15561,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 199,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドキング(ガラル) (最速)",
@@ -15583,7 +15583,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 199,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ハガネール (最速)",
@@ -15605,7 +15605,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 208,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エアームド (無振り)",
@@ -15627,7 +15627,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 227,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ポワルン (無振り)",
@@ -15648,7 +15648,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 351,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "レントラー (無振り)",
@@ -15669,7 +15669,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 405,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "トリデプス (最速)",
@@ -15691,7 +15691,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 411,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ダイケンキ (無振り)",
@@ -15712,7 +15712,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 503,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デスカーン (最速)",
@@ -15733,7 +15733,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 563,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ランクルス (最速)",
@@ -15754,7 +15754,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 579,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エリキテル (無振り)",
@@ -15776,7 +15776,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 694,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "クレベース(ヒスイ) (準速)",
@@ -15798,7 +15798,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 713,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジュナイパー (無振り)",
@@ -15820,7 +15820,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 724,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アップリュ (無振り)",
@@ -15842,7 +15842,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 0,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ポットデス (無振り)",
@@ -15863,7 +15863,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 855,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バリコオル (無振り)",
@@ -15885,7 +15885,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 866,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サニゴーン (最速)",
@@ -15906,7 +15906,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 864,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヤドラン (最速)",
@@ -15928,7 +15928,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 80,
-    "megaId": 10071
+    "varietyId": 10071
   },
   {
     "name": "メガハガネール (最速)",
@@ -15950,7 +15950,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 208,
-    "megaId": 10072
+    "varietyId": 10072
   },
   {
     "name": "メガユキノオー (最速)",
@@ -15972,7 +15972,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 460,
-    "megaId": 10060
+    "varietyId": 10060
   },
   {
     "name": "メガピクシー (無振り)",
@@ -15994,7 +15994,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 36,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガウツボット (無振り)",
@@ -16016,7 +16016,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 71,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フレフワン (最速)",
@@ -16037,7 +16037,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 683,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(大きい) (無振り)",
@@ -16059,7 +16059,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブリムオン (最速)",
@@ -16081,7 +16081,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 858,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガメノデス (無振り)",
@@ -16103,7 +16103,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 689,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "クレベース (最速)",
@@ -16124,7 +16124,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 713,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジジーロン (準速)",
@@ -16146,7 +16146,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 780,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガズルズキン (無振り)",
@@ -16168,7 +16168,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 560,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガジジーロン (準速)",
@@ -16190,7 +16190,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 780,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ピッピ (準速)",
@@ -16211,7 +16211,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 35,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミカルゲ (準速)",
@@ -16233,7 +16233,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 442,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バンバドロ (準速)",
@@ -16254,7 +16254,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 750,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アーマーガア (無振り)",
@@ -16276,7 +16276,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 823,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "キョジオーン (準速)",
@@ -16297,7 +16297,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 934,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ラウドボーン (無振り)",
@@ -16319,7 +16319,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 911,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "シャワーズ (無振り)",
@@ -16340,7 +16340,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 134,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブースター (無振り)",
@@ -16361,7 +16361,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 136,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブラッキー (無振り)",
@@ -16382,7 +16382,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 197,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ハッサム (無振り)",
@@ -16404,7 +16404,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 212,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ペリッパー (無振り)",
@@ -16426,7 +16426,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 279,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジュペッタ (無振り)",
@@ -16447,7 +16447,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 354,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "チリーン (無振り)",
@@ -16468,7 +16468,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 358,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グレイシア (無振り)",
@@ -16489,7 +16489,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 471,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エンブオー (無振り)",
@@ -16511,7 +16511,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 500,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヒドイデ (準速)",
@@ -16533,7 +16533,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 747,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アヤシシ (無振り)",
@@ -16555,7 +16555,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 899,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミミズズ (無振り)",
@@ -16576,7 +16576,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 968,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガチリーン (無振り)",
@@ -16598,7 +16598,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 358,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤナップ (無振り)",
@@ -16619,7 +16619,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 511,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バオップ (無振り)",
@@ -16640,7 +16640,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 513,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヒヤップ (無振り)",
@@ -16661,7 +16661,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 515,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マッギョ (準速)",
@@ -16683,7 +16683,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 618,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マッギョ(ガラル) (準速)",
@@ -16705,7 +16705,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 618,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブリガロン (無振り)",
@@ -16727,7 +16727,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 652,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マホイップ (無振り)",
@@ -16748,7 +16748,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 869,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドラン (準速)",
@@ -16770,7 +16770,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 80,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドラン(ガラル) (準速)",
@@ -16792,7 +16792,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 80,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カビゴン (準速)",
@@ -16813,7 +16813,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 143,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドキング (準速)",
@@ -16835,7 +16835,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 199,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドキング(ガラル) (準速)",
@@ -16857,7 +16857,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 199,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ハガネール (準速)",
@@ -16879,7 +16879,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 208,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "トリデプス (準速)",
@@ -16901,7 +16901,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 411,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デスカーン (準速)",
@@ -16922,7 +16922,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 563,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ランクルス (準速)",
@@ -16943,7 +16943,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 579,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サニゴーン (準速)",
@@ -16964,7 +16964,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 864,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヤドラン (準速)",
@@ -16986,7 +16986,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 80,
-    "megaId": 10071
+    "varietyId": 10071
   },
   {
     "name": "メガハガネール (準速)",
@@ -17008,7 +17008,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 208,
-    "megaId": 10072
+    "varietyId": 10072
   },
   {
     "name": "メガユキノオー (準速)",
@@ -17030,7 +17030,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 460,
-    "megaId": 10060
+    "varietyId": 10060
   },
   {
     "name": "メガペンドラー (無振り)",
@@ -17052,7 +17052,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 545,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バンギラス (無振り)",
@@ -17074,7 +17074,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 248,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フレフワン (準速)",
@@ -17095,7 +17095,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 683,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブリムオン (準速)",
@@ -17117,7 +17117,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 858,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "エンペルト (無振り)",
@@ -17139,7 +17139,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 395,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ユキノオー (無振り)",
@@ -17161,7 +17161,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 460,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ギルガルド(シールド) (無振り)",
@@ -17183,7 +17183,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 681,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ギルガルド(ブレード) (無振り)",
@@ -17205,7 +17205,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 681,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ニンフィア (無振り)",
@@ -17226,7 +17226,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 700,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヌメルゴン(ヒスイ) (無振り)",
@@ -17248,7 +17248,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 706,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "クレベース (準速)",
@@ -17269,7 +17269,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 713,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジュナイパー(ヒスイ) (無振り)",
@@ -17291,7 +17291,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 724,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ガオガエン (無振り)",
@@ -17313,7 +17313,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 727,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アシレーヌ (無振り)",
@@ -17335,7 +17335,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 730,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドデカバシ (無振り)",
@@ -17357,7 +17357,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 733,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤレユータン (無振り)",
@@ -17379,7 +17379,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 765,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "リキキリン (無振り)",
@@ -17401,7 +17401,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 981,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "コータス (最速)",
@@ -17422,7 +17422,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 324,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヤミラミ (最速)",
@@ -17444,7 +17444,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 302,
-    "megaId": 10066
+    "varietyId": 10066
   },
   {
     "name": "メガバクーダ (最速)",
@@ -17466,7 +17466,7 @@
     "typeTag": "最速",
     "isMega": true,
     "dexId": 323,
-    "megaId": 10087
+    "varietyId": 10087
   },
   {
     "name": "ラムパルド (無振り)",
@@ -17487,7 +17487,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 409,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゴロンダ (無振り)",
@@ -17509,7 +17509,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 675,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アマルルガ (無振り)",
@@ -17531,7 +17531,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 699,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドダイトス (無振り)",
@@ -17553,7 +17553,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 389,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オーロット (無振り)",
@@ -17575,7 +17575,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 709,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カイリキー (無振り)",
@@ -17596,7 +17596,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 68,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デンリュウ (無振り)",
@@ -17617,7 +17617,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 181,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ゴルーグ (無振り)",
@@ -17639,7 +17639,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 623,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガデンリュウ (無振り)",
@@ -17660,7 +17660,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 181,
-    "megaId": 10045
+    "varietyId": 10045
   },
   {
     "name": "メガゴルーグ (無振り)",
@@ -17682,7 +17682,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 623,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガマギアナ (無振り)",
@@ -17704,7 +17704,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 801,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "パンプジン(特大) (無振り)",
@@ -17726,7 +17726,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 711,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "コータス (準速)",
@@ -17747,7 +17747,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 324,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヤミラミ (準速)",
@@ -17769,7 +17769,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 302,
-    "megaId": 10066
+    "varietyId": 10066
   },
   {
     "name": "メガバクーダ (準速)",
@@ -17791,7 +17791,7 @@
     "typeTag": "準速",
     "isMega": true,
     "dexId": 323,
-    "megaId": 10087
+    "varietyId": 10087
   },
   {
     "name": "マリルリ (無振り)",
@@ -17813,7 +17813,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 184,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤミラミ (無振り)",
@@ -17835,7 +17835,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 302,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ボスゴドラ (無振り)",
@@ -17857,7 +17857,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 306,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "グレッグル (無振り)",
@@ -17879,7 +17879,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 453,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "タブンネ (無振り)",
@@ -17900,7 +17900,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 531,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ツンベアー (無振り)",
@@ -17921,7 +17921,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 614,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドドゲザン (無振り)",
@@ -17943,7 +17943,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 983,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガボスゴドラ (無振り)",
@@ -17965,7 +17965,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 306,
-    "megaId": 10053
+    "varietyId": 10053
   },
   {
     "name": "メガタブンネ (無振り)",
@@ -17986,7 +17986,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 531,
-    "megaId": 10069
+    "varietyId": 10069
   },
   {
     "name": "メタモン (無振り)",
@@ -18007,7 +18007,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 132,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カバルドン (無振り)",
@@ -18028,7 +18028,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 450,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ローブシン (無振り)",
@@ -18049,7 +18049,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 534,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ハラバリー (無振り)",
@@ -18070,7 +18070,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 939,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガドラミドロ (無振り)",
@@ -18092,7 +18092,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 691,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガブリガロン (無振り)",
@@ -18114,7 +18114,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 652,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ケケンカニ (無振り)",
@@ -18136,7 +18136,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 740,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "オニシズクモ (無振り)",
@@ -18158,7 +18158,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 752,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "アリアドス (無振り)",
@@ -18180,7 +18180,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 168,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "フォレトス (無振り)",
@@ -18202,7 +18202,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 205,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バクーダ (無振り)",
@@ -18224,7 +18224,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 323,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ドサイドン (無振り)",
@@ -18246,7 +18246,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 464,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カミッチュ (無振り)",
@@ -18268,7 +18268,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 1011,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガグソクムシャ (無振り)",
@@ -18290,7 +18290,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 768,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "クレベース(ヒスイ) (無振り)",
@@ -18312,7 +18312,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 713,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ジジーロン (無振り)",
@@ -18334,7 +18334,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 780,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガジジーロン (無振り)",
@@ -18356,7 +18356,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 780,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ピッピ (無振り)",
@@ -18377,7 +18377,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 35,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ミカルゲ (無振り)",
@@ -18399,7 +18399,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 442,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "バンバドロ (無振り)",
@@ -18420,7 +18420,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 750,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "キョジオーン (無振り)",
@@ -18441,7 +18441,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 934,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヒドイデ (無振り)",
@@ -18463,7 +18463,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 747,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マッギョ (無振り)",
@@ -18485,7 +18485,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 618,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "マッギョ(ガラル) (無振り)",
@@ -18507,7 +18507,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 618,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドラン (無振り)",
@@ -18529,7 +18529,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 80,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドラン(ガラル) (無振り)",
@@ -18551,7 +18551,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 80,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "カビゴン (無振り)",
@@ -18572,7 +18572,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 143,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドキング (無振り)",
@@ -18594,7 +18594,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 199,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ヤドキング(ガラル) (無振り)",
@@ -18616,7 +18616,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 199,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ハガネール (無振り)",
@@ -18638,7 +18638,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 208,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "トリデプス (無振り)",
@@ -18660,7 +18660,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 411,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "デスカーン (無振り)",
@@ -18681,7 +18681,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 563,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ランクルス (無振り)",
@@ -18702,7 +18702,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 579,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "サニゴーン (無振り)",
@@ -18723,7 +18723,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 864,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヤドラン (無振り)",
@@ -18745,7 +18745,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 80,
-    "megaId": 10071
+    "varietyId": 10071
   },
   {
     "name": "メガハガネール (無振り)",
@@ -18767,7 +18767,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 208,
-    "megaId": 10072
+    "varietyId": 10072
   },
   {
     "name": "メガユキノオー (無振り)",
@@ -18789,7 +18789,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 460,
-    "megaId": 10060
+    "varietyId": 10060
   },
   {
     "name": "フレフワン (無振り)",
@@ -18810,7 +18810,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 683,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "ブリムオン (無振り)",
@@ -18832,7 +18832,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 858,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "クレベース (無振り)",
@@ -18853,7 +18853,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 713,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "コータス (無振り)",
@@ -18874,7 +18874,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 324,
-    "megaId": 0
+    "varietyId": 0
   },
   {
     "name": "メガヤミラミ (無振り)",
@@ -18896,7 +18896,7 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 302,
-    "megaId": 10066
+    "varietyId": 10066
   },
   {
     "name": "メガバクーダ (無振り)",
@@ -18918,6 +18918,6 @@
     "typeTag": "無振り",
     "isMega": true,
     "dexId": 323,
-    "megaId": 10087
+    "varietyId": 10087
   }
 ]

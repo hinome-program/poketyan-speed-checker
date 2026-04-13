@@ -82,12 +82,12 @@ function buildRow(p, idx) {
     
     const pokeBall = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png';
     const baseSprite = p.dexId ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.dexId}.png` : pokeBall;
-    const megaSprite = (p.megaId && p.megaId !== 0) ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.megaId}.png` : baseSprite;
+    const varietySprite = (p.varietyId && p.varietyId !== 0) ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.varietyId}.png` : baseSprite;
 
     name.innerHTML = `
         <div class="name-inner-wrapper">
             <img class="poke-icon" 
-                 src="${megaSprite}" 
+                 src="${varietySprite}" 
                  onerror="if(this.src !== '${baseSprite}') { this.src='${baseSprite}'; } else { this.src='${pokeBall}'; this.onerror=null; }" 
                  alt="icon" loading="lazy">
             <div class="name-text-area">
