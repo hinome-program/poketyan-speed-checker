@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ポケチャン・スピードチェッカー</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;900&family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="sticky-header">
+        <div class="header-main-row">
+            <h1 class="appName">ポケチャン <span class="accent">スピードチェッカー</span></h1>
+            <div id="mode-selector" class="mode-selector">
+                <button id="btn-normal" class="mode-btn active" data-mode="normal">通常</button>
+                <button id="btn-mega" class="mode-btn" data-mode="mega">メガ進化</button>
+                <div class="selector-ink"></div>
+            </div>
+        </div>
+        <div class="header-search-row">
+            <div class="search-box-wrapper">
+                <input type="text" id="poke-search" placeholder="ポケモン名で検索..." autofocus autocomplete="off">
+            </div>
+        </div>
+        <div class="header-labels-row">
+            <span class="col-type">タイプ</span>
+            <span class="col-name">ポケモン名 (最速/準速/無振り)</span>
+            <span class="col-base">種族値</span>
+            <span class="col-real">実数値</span>
+        </div>
+    </header>
+
+    <main class="content-area">
+        <div id="listing-container" class="listing-container">
+            <!-- Rows injected by JS -->
+        </div>
+    </main>
+
+    <!-- Detail Overlay -->
+    <div id="detail-overlay" class="overlay">
+        <div class="overlay-card">
+            <span id="overlay-close" class="overlay-close">&times;</span>
+            <div id="overlay-content"></div>
+        </div>
+    </div>
+
+    <!-- Ensure UTF-8 loading -->
+    <script type="module" src="app.js" charset="UTF-8"></script>
+</body>
+</html>
