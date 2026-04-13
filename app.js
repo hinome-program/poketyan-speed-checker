@@ -82,10 +82,24 @@ function buildRow(p, idx) {
     icn.style.borderColor = TYPE_COLORS[t1] || '#ccc';
     icn.style.backgroundColor = TYPE_COLORS[t2] || '#ccc';
     
-    // Name
+    // Name with Sprite
     const name = document.createElement('div');
     name.className = 'poke-name-box';
-    name.innerHTML = `${p.baseName} <span class="mode-tag">(${p.typeTag})</span>`;
+    
+    const fallbackUrl = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png';
+    const spriteUrl = (p.dexId && p.dexId !== 0) 
+        ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.dexId}.png` 
+        : fallbackUrl;
+        
+    name.innerHTML = `
+        <div class="name-inner-wrapper">
+            <img class="poke-icon" src="${spriteUrl}" onerror="this.onerror=null; this.src='${fallbackUrl}';" alt="icon" loading="lazy">
+            <div class="name-text-area">
+                <span class="poke-text">${p.baseName}</span> 
+                <span class="mode-tag">(${p.typeTag})</span>
+            </div>
+        </div>
+    `;
     
     // Base Speed
     const base = document.createElement('div');
