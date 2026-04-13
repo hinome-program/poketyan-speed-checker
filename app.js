@@ -80,14 +80,16 @@ function buildRow(p, idx) {
     const name = document.createElement('div');
     name.className = 'poke-name-box';
     
-    const fallbackUrl = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png';
-    const spriteUrl = (p.dexId && p.dexId !== 0) 
-        ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.dexId}.png` 
-        : fallbackUrl;
-        
+    const pokeBall = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png';
+    const baseSprite = p.dexId ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.dexId}.png` : pokeBall;
+    const megaSprite = (p.megaId && p.megaId !== 0) ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.megaId}.png` : baseSprite;
+
     name.innerHTML = `
         <div class="name-inner-wrapper">
-            <img class="poke-icon" src="${spriteUrl}" onerror="this.onerror=null; this.src='${fallbackUrl}';" alt="icon" loading="lazy">
+            <img class="poke-icon" 
+                 src="${megaSprite}" 
+                 onerror="if(this.src !== '${baseSprite}') { this.src='${baseSprite}'; } else { this.src='${pokeBall}'; this.onerror=null; }" 
+                 alt="icon" loading="lazy">
             <div class="name-text-area">
                 <span class="poke-text">${p.baseName}</span> 
                 <span class="mode-tag">(${p.typeTag})</span>
