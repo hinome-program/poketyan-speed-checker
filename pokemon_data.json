@@ -1451,7 +1451,7 @@
     "typeTag": "最速",
     "isMega": false,
     "dexId": 38,
-    "varietyId": 0
+    "varietyId": 10104
   },
   {
     "name": "マニューラ (準速)",
@@ -3227,7 +3227,7 @@
     "typeTag": "準速",
     "isMega": false,
     "dexId": 38,
-    "varietyId": 0
+    "varietyId": 10104
   },
   {
     "name": "ウインディ (最速)",
@@ -8760,7 +8760,7 @@
     "typeTag": "無振り",
     "isMega": false,
     "dexId": 38,
-    "varietyId": 0
+    "varietyId": 10104
   },
   {
     "name": "ミルホッグ (準速)",

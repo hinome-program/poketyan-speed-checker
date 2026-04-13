@@ -80,7 +80,8 @@ manual_form_map = {
     "ロトム(カット)": 10012,
     "ルガルガン(まひる)": 745,
     "ルガルガン(まよなか)": 10126,
-    "ルガルガン(たそがれ)": 10152
+    "ルガルガン(たそがれ)": 10152,
+    "キュウコン(アローラ)": 10104
 }
 
 print(f"Loaded {len(jp_to_dex_id)} species and {len(mega_data['data']['pokemon_v2_pokemon'])} mega varieties.")
