@@ -28,6 +28,7 @@
     --type-dark: #705848;
     --type-steel: #B8B8D0;
     --type-fairy: #EE99AC;
+    --highlight-yellow: #facc15; /* Vibrant yellow for Speed */
 }
 
 * {
@@ -113,6 +114,7 @@ body {
     background: var(--grad);
     border-radius: 25px;
     transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    pointer-events: none;
 }
 
 .header-search-row {
@@ -303,7 +305,20 @@ body {
 
 /* Mobile */
 @media (max-width: 500px) {
-    .header-main-row { flex-direction: column; gap: 0.75rem; align-items: flex-start; }
-    .mode-selector { width: 100%; }
-    .col-name, .poke-name-box { margin-left: 0.5rem; }
+    .header-main-row { 
+        flex-direction: column; 
+        gap: 0.75rem; 
+        align-items: center; 
+        text-align: center;
+    }
+    .mode-selector { 
+        width: 100%; 
+        max-width: 280px; /* Limit width on mobile so it doesn't get too long */
+    }
+    .col-name, .poke-name-box { margin-left: 0.25rem; }
+}
+
+.stat-num.yellow-highlight,
+.stat-lbl.yellow-highlight {
+    color: var(--highlight-yellow) !important;
 }

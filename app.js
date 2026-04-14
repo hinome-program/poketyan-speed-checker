@@ -115,6 +115,7 @@ function buildRow(p, idx) {
 
 function openPop(p) {
     const s = p.stats;
+    const totalBase = s.hp + s.atk + s.def + s.spa + s.spd + s.spe;
     ui.overlayContent.innerHTML = `
         <div class="overlay-header">
             <h2>${p.baseName}</h2>
@@ -126,10 +127,10 @@ function openPop(p) {
             <div class="stat-item"><span class="stat-lbl">防御</span><span class="stat-num">${s.def}</span></div>
             <div class="stat-item"><span class="stat-lbl">特攻</span><span class="stat-num">${s.spa}</span></div>
             <div class="stat-item"><span class="stat-lbl">特防</span><span class="stat-num">${s.spd}</span></div>
-            <div class="stat-item"><span class="stat-lbl">素早さ(種族値)</span><span class="stat-num highlight">${s.spe}</span></div>
+            <div class="stat-item"><span class="stat-lbl yellow-highlight">素早さ</span><span class="stat-num highlight yellow-highlight">${s.spe}</span></div>
             <div class="stat-item" style="border:1px solid var(--cyan); margin-top:10px;">
-                <span class="stat-lbl">実数値 (${p.typeTag})</span>
-                <span class="stat-num highlight" style="font-size:1.5rem;">${p.realSpe}</span>
+                <span class="stat-lbl">合計種族値</span>
+                <span class="stat-num highlight" style="font-size:1.5rem;">${totalBase}</span>
             </div>
         </div>
     `;
@@ -148,7 +149,7 @@ function wireEvents() {
         } else {
             ui.btnNormal.classList.remove('active');
             ui.btnMega.classList.add('active');
-            ui.ink.style.transform = 'translateX(87px)';
+            ui.ink.style.transform = 'translateX(100%)';
         }
         draw();
     };
