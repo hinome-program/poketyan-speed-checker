@@ -1,11 +1,11 @@
 {
-  "name": "ポケチャン・スピードチェッカー",
-  "short_name": "スピードチェッカー",
+  "name": "ポケチャンスピードチェッカー",
+  "short_name": "ポケスピ",
   "description": "ポケモンの素早さ実数値を瞬時に確認できるアプリ",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#0a0f1e",
-  "theme_color": "#0a0f1e",
+  "background_color": "#ffffff",
+  "theme_color": "#87CEEB",
   "lang": "ja",
   "icons": [
     {
