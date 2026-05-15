@@ -230,7 +230,7 @@
     "spa": 160,
     "spd": 80,
     "spe": 130,
-    "dexId": 0,
+    "dexId": 26,
     "varietyId": 0,
     "isMega": true
   },
@@ -748,7 +748,7 @@
     "spa": 90,
     "spd": 95,
     "spe": 110,
-    "dexId": 0,
+    "dexId": 26,
     "varietyId": 0,
     "isMega": true
   },

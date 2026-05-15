@@ -68,11 +68,36 @@ function draw() {
     });
 }
 
+// Legends Z-A 新規メガシンカ等の例外処理データ
+const ZA_EXCEPTIONS = {
+    "メガゲッコウガ": { dexId: 658, spe: 142, hp: 72, atk: 125, def: 77, spa: 133, spd: 81 },
+    "メガマフォクシー": { dexId: 655, spe: 134, hp: 75, atk: 69, def: 72, spa: 159, spd: 125 },
+    "メガブリガロン": { dexId: 652, spe: 44, hp: 88, atk: 137, def: 172, spa: 74, spd: 115 },
+    "メガガブリアスZ": { dexId: 445, spe: 151, hp: 108, atk: 130, def: 85, spa: 141, spd: 85 },
+    "メガルカリオZ": { dexId: 448, spe: 151, hp: 70, atk: 100, def: 70, spa: 164, spd: 70 },
+    "メガアブソルZ": { dexId: 359, spe: 151, hp: 65, atk: 154, def: 60, spa: 75, spd: 60 }
+};
+
 function buildRow(p, idx) {
     const el = document.createElement('div');
     const tierClass = p.typeTag === '最速' ? 'is-fastest' : p.typeTag === '準速' ? 'is-semi' : 'is-noev';
     el.className = `poke-row ${tierClass}`;
     
+    // 例外処理：ハードコードされたデータの適用
+    if (ZA_EXCEPTIONS[p.baseName]) {
+        const ex = ZA_EXCEPTIONS[p.baseName];
+        if (!p.dexId || p.dexId === 0) p.dexId = ex.dexId;
+        // 実数値計算済みのデータに対しても種族値を保証
+        if (p.stats) {
+            p.stats.spe = ex.spe;
+            p.stats.hp = ex.hp;
+            p.stats.atk = ex.atk;
+            p.stats.def = ex.def;
+            p.stats.spa = ex.spa;
+            p.stats.spd = ex.spd;
+        }
+    }
+
     const t1 = p.types[0];
     const t2 = p.types[1] || t1;
     
@@ -84,18 +109,37 @@ function buildRow(p, idx) {
     const baseSprite = p.dexId ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.dexId}.png` : pokeBall;
     const varietySprite = (p.varietyId && p.varietyId !== 0) ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.varietyId}.png` : baseSprite;
 
+    // 画像エラー時のフォールバック処理
+    const handleImgError = (img) => {
+        if (img.src !== baseSprite) {
+            img.src = baseSprite;
+        } else {
+            // 全ての画像に失敗した場合、CSSプレースホルダーを表示
+            const container = img.parentElement;
+            const initial = p.baseName.charAt(0);
+            container.innerHTML = `<div class="poke-icon-placeholder">${initial}</div>`;
+        }
+    };
+
+    // HTML構築
     name.innerHTML = `
         <div class="name-inner-wrapper">
-            <img class="poke-icon" 
-                 src="${varietySprite}" 
-                 onerror="if(this.src !== '${baseSprite}') { this.src='${baseSprite}'; } else { this.src='${pokeBall}'; this.onerror=null; }" 
-                 alt="icon" loading="lazy">
+            <div class="poke-icon-container">
+                <img class="poke-icon" 
+                     src="${varietySprite}" 
+                     alt="${p.baseName}" 
+                     loading="lazy">
+            </div>
             <div class="name-text-area">
                 <span class="poke-text">${p.baseName}</span> 
                 <span class="mode-tag">(${p.typeTag})</span>
             </div>
         </div>
     `;
+
+    // 実行時にエラーハンドラをアタッチ
+    const img = name.querySelector('.poke-icon');
+    img.onerror = () => handleImgError(img);
     
     // Base Speed
     const base = document.createElement('div');
