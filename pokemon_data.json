@@ -14913,6 +14913,26 @@
     "varietyId": 0
   },
   {
+    "name": "メガケケンカニ (最速)",
+    "baseName": "メガケケンカニ",
+    "types": [
+      "こおり",
+      "かくとう"
+    ],
+    "baseSpe": 33,
+    "realSpe": 93,
+    "stats": {
+      "hp": 97,
+      "atk": 157,
+      "def": 122,
+      "spa": 62,
+      "spd": 107,
+      "spe": 33
+    },
+    "typeTag": "最速",
+    "isMega": true
+  },
+  {
     "name": "アリアドス (準速)",
     "baseName": "アリアドス",
     "types": [
@@ -16348,6 +16368,26 @@
       "spe": 65
     },
     "typeTag": "無振り",
+    "isMega": true
+  },
+  {
+    "name": "メガケケンカニ (準速)",
+    "baseName": "メガケケンカニ",
+    "types": [
+      "こおり",
+      "かくとう"
+    ],
+    "baseSpe": 33,
+    "realSpe": 85,
+    "stats": {
+      "hp": 97,
+      "atk": 157,
+      "def": 122,
+      "spa": 62,
+      "spd": 107,
+      "spe": 33
+    },
+    "typeTag": "準速",
     "isMega": true
   },
   {
@@ -18200,6 +18240,26 @@
     "isMega": false,
     "dexId": 747,
     "varietyId": 0
+  },
+  {
+    "name": "メガケケンカニ (無振り)",
+    "baseName": "メガケケンカニ",
+    "types": [
+      "こおり",
+      "かくとう"
+    ],
+    "baseSpe": 33,
+    "realSpe": 53,
+    "stats": {
+      "hp": 97,
+      "atk": 157,
+      "def": 122,
+      "spa": 62,
+      "spd": 107,
+      "spe": 33
+    },
+    "typeTag": "無振り",
+    "isMega": true
   },
   {
     "name": "マッギョ (無振り)",

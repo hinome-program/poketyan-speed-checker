@@ -75,7 +75,12 @@ const ZA_EXCEPTIONS = {
     "メガブリガロン": { dexId: 652, spe: 44, hp: 88, atk: 137, def: 172, spa: 74, spd: 115 },
     "メガガブリアスZ": { dexId: 445, spe: 151, hp: 108, atk: 130, def: 85, spa: 141, spd: 85 },
     "メガルカリオZ": { dexId: 448, spe: 151, hp: 70, atk: 100, def: 70, spa: 164, spd: 70 },
-    "メガアブソルZ": { dexId: 359, spe: 151, hp: 65, atk: 154, def: 60, spa: 75, spd: 60 }
+    "メガアブソルZ": { dexId: 359, spe: 151, hp: 65, atk: 154, def: 60, spa: 75, spd: 60 },
+    "メガチリーン": { dexId: 358, spe: 65, hp: 75, atk: 50, def: 110, spa: 135, spd: 120, types: ["エスパー", "はがね"] },
+    "メガケケンカニ": { dexId: 740, spe: 33, hp: 97, atk: 157, def: 122, spa: 62, spd: 107 },
+    "メガゴルーグ": { dexId: 623, spe: 55, hp: 89, atk: 159, def: 105, spa: 70, spd: 105 },
+    "メガグソクムシャ": { dexId: 768, spe: 40, hp: 75, atk: 150, def: 175, spa: 70, spd: 120, types: ["むし", "はがね"] },
+    "メガニャオニクス": { dexId: 678, spe: 124, hp: 74, atk: 48, def: 76, spa: 143, spd: 101 }
 };
 
 function buildRow(p, idx) {
@@ -87,6 +92,7 @@ function buildRow(p, idx) {
     if (ZA_EXCEPTIONS[p.baseName]) {
         const ex = ZA_EXCEPTIONS[p.baseName];
         if (!p.dexId || p.dexId === 0) p.dexId = ex.dexId;
+        if (ex.types) p.types = ex.types; // タイプの上書き
         // 実数値計算済みのデータに対しても種族値を保証
         if (p.stats) {
             p.stats.spe = ex.spe;
