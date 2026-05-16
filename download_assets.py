@@ -71,7 +71,8 @@ def purge_images():
 
 def search_bing_image(pokemon_name):
     """Bing Images を使用した画像検索ロジック (Fallback)"""
-    query = f"{pokemon_name} Mega Evolution icon png"
+    # 除外キーワードを追加して公式アイコンやスプライトを厳選
+    query = f"{pokemon_name} Mega Evolution official icon png -card -tcg -fanart -box -toy -packaging -plush -ebay -amazon transparent"
     url = f"https://www.bing.com/images/search?q={urllib.parse.quote(query)}&form=HDRSC2"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
