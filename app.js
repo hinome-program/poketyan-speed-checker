@@ -149,6 +149,10 @@ function buildRow(p, idx) {
     const baseSprite = p.dexId ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.dexId}.png` : pokeBall;
     const varietySprite = (p.varietyId && p.varietyId !== 0) ? `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.varietyId}.png` : baseSprite;
 
+    // ZA_EXCEPTIONS の場合はローカル画像を最優先
+    const localSprite = `assets/images/${p.baseName}.png`;
+    const finalSprite = ZA_EXCEPTIONS[p.baseName] ? localSprite : varietySprite;
+
     // 画像エラー時のフォールバック処理
     const handleImgError = (img) => {
         const localSrc = `assets/images/${p.baseName}.png`;
@@ -173,7 +177,7 @@ function buildRow(p, idx) {
         <div class="name-inner-wrapper">
             <div class="poke-icon-container">
                 <img class="poke-icon" 
-                     src="${varietySprite}" 
+                     src="${finalSprite}" 
                      alt="${p.baseName}" 
                      loading="lazy">
             </div>
